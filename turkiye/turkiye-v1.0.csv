@@ -1,0 +1,1044 @@
+Index,Method,Source,Lat (N),Long (E),Sample Name,Lithology,Mineral,Age (Ma),2sigma,p-value,MSWD,n
+1,U-Pb,"Açlan and Altun, 2018",39.57477,43.26521,Y-30,Gabbro,Zircon,22.3,0.2,0.929,0.51,15
+2,U-Pb,"Açlan and Altun, 2018",39.56259,43.27984,Y-90,Granodiorite,Zircon,21.8,0.2,0.071,1.6,15
+3,U-Pb,"Açlan and Altun, 2018",39.59578,43.28,Y-82,Tonalite,Zircon,21.7,0.2,0.114,1.4,20
+4,U-Pb,"Açlan and Duruk, 2018",39.58243,43.49295,H-25,Granodiorite,Zircon,19.7,0.6,0,3.2,18
+5,U-Pb,"Açlan and Duruk, 2018",39.5904,43.39357,H-35,Monzogranite,Zircon,20.3,0.6,0,2.8,17
+6,U-Pb,"Akal et al., 2011",38.57619,26.44575,880,Quartz Diorite,Zircon,247.1,4,0.74,0.04,13
+7,U-Pb,"Akal et al., 2012",38.18599,32.39986,1196/21,Meta-Trachyandesite,Zircon,250.1,7.6,0.094,2.8,14
+8,U-Pb,"Akal et al., 2024",39.321975,28.552818,1751,Meta-Rhyolite,Zircon,238.6,1.2,0.59,0.29,8
+9,U-Pb,"Akal et al., 2024",39.355807,28.580354,1744,Meta-Rhyolite,Zircon,241.1,2.6,0.27,1.2,10
+10,U-Pb,"Akal et al., 2024",39.307721,28.541937,1294,Meta-Rhyolite,Zircon,245.2,2,0.84,0.04,11
+11,U-Pb,"Akal et al., 2024",38.395651,32.0226,1047,Meta-Rhyolite,Zircon,229.4,2.7,0.71,0.14,9
+12,U-Pb,"Akal et al., 2024",38.331002,32.070709,1064,Meta-Rhyolite,Zircon,236.2,2.3,0.5,0.46,8
+13,U-Pb,"Akal et al., 2024",38.33381,32.083865,1147,Meta-Rhyolite,Zircon,243,2.9,0.41,0.68,9
+14,U-Pb,"Akal et al., 2024",38.081681,32.406512,1199/2,Meta-Trachyandesite,Zircon,241.6,2.2,0.79,0.07,9
+15,U-Pb,"Akal et al., 2024",38.081681,32.406512,1199/3,Meta-Trachyandesite,Zircon,243.1,1.9,0.91,0.01,10
+16,U-Pb,"Akal et al., 2024",38.081681,32.406512,1199/21,Meta-Trachyandesite,Zircon,242.5,2,0.71,0.14,10
+17,U-Pb,"Akal et al., 2024",38.114125,32.375051,1571,Meta-Andesite,Zircon,240.5,1.6,0.96,0,16
+18,U-Pb,"Akal et al., 2024",38.162944,32.524719,1444/2,Meta-Trachyandesite,Zircon,239.2,1.3,0.24,1.4,16
+19,U-Pb,"Akal et al., 2024",38.164511,32.524264,1444/3,Meta-Trachyandesite,Zircon,242.5,2,0.7,0.14,13
+20,U-Pb,"Akgündüz et al., 2021",42.03151,27.23303,KL-2,Quartz Monzonite,Zircon,311.91,1.34,0.005,2.1,18
+21,U-Pb,"Akgündüz et al., 2021",42.00556,27.29527,KL-6,Quartz Monzonite,Zircon,298.06,0.68,0,22,17
+22,U-Pb,"Akpınar et al., 2024",41.13854,41.86006,CTZ-1,Dacitic Tuff,Zircon,79,1,0.79,0.07,15
+23,U-Pb,"Akpınar et al., 2024",41.13854,41.86006,CTZ-2,Dacitic Tuff,Zircon,76.8,1,0.57,0.32,20
+24,U-Pb,"Altunkaynak et al., 2012",39.90261,28.99214,Orhaneli 1,Syenite,Zircon,52.8,1.8,0.001,4.7,5
+25,U-Pb,"Altunkaynak et al., 2012",39.90261,28.99214,Orhaneli 2,Syenite,Zircon,46.38,0.67,0.13,1.6,8
+26,U-Pb,"Altunkaynak et al., 2012",39.98075,28.99282,Topuk,Granodiorite,Zircon,48.71,0.44,0.06,1.7,13
+27,U-Pb,"Altunkaynak et al., 2012",39.95969,29.3866,Tepeldağ,Granite,Zircon,45.41,0.34,0.054,1.7,14
+28,U-Pb,"Altunkaynak et al., 2012",39.90496,29.03306,Gürgenyayla,Granodiorite,Zircon,51.02,0.52,0.048,1.8,12
+29,U-Pb,"Altunkaynak et al., 2012",40.43241,27.87324,Kapıdağ1,Granodiorite,Zircon,233.8,8.2,0.999,0.07,7
+30,U-Pb,"Altunkaynak et al., 2012",40.43241,27.87324,Kapıdağ2,Granodiorite,Zircon,36.79,0.67,0.33,1.15,8
+31,U-Pb,"Altunkaynak et al., 2012",40.42197,27.2785,Karabiga,Granite,Zircon,47.02,0.82,0.008,2.4,11
+32,U-Pb,"Altunkaynak et al., 2012b",39.91059,28.227402,Çataldağ,Granite,Zircon,21.91,0.33,0.35,1.11,12
+33,U-Pb,"Altunkaynak et al., 2012b",39.692264,27.098079,Eybek,Granite,Zircon,23.94,0.31,0.1,1.6,11
+34,U-Pb,"Altunkaynak et al., 2012b",39.367153,28.715765,Çamlık,Granite,Zircon,22.6,0.77,0,13,16
+35,U-Pb,"Altunkaynak et al., 2012b",39.305601,29.085997,Eğrigöz,Granite,Zircon,19.48,0.29,0.53,0.93,16
+36,U-Pb,"Arslan and Aslan, 2006",40.45536,39.75126,G24,Granitic Stock,Zircon,44.4,0.3,0.791,0.07,2
+37,U-Pb,"Aslan et al., 2026",39.359839,28.609127,TGP-5054,Metagranitic Rock,Zircon,311.72,0.84,0.17,0.19,19
+38,U-Pb,"Aslan et al., 2026",39.346598,28.636691,TGP-5059,Metagranite Porphyry,Zircon,309.21,0.99,0.67,0.18,15
+39,U-Pb,"Aslan, 2010",40.47172,39.4882,K5,Tuff,Zircon,45.8,1.2,0.012,2.4,9
+40,U-Pb,"Aydar et al., 2012",38.3955,34.9306,K-287,Ignimbirite,Zircon,6.9,0.34,0.16,1.45,10
+41,U-Pb,"Aydar et al., 2012",38.488,34.9491,K-372,Ignimbirite,Zircon,6.76,0.3,0.902,0.46,10
+42,U-Pb,"Aydar et al., 2012",38.6258,34.8332,KL-17,Ignimbirite,Zircon,9.43,0.38,0.927,0.39,9
+43,U-Pb,"Aydar et al., 2012",38.4146,34.815,KPD-08-004,Ignimbirite,Zircon,6.96,0.28,0.806,0.59,10
+44,U-Pb,"Aydar et al., 2012",38.6251,34.8339,KPD-08-009,Ignimbirite,Zircon,9.95,0.49,0.972,0.25,8
+45,U-Pb,"Aydar et al., 2012",38.6625,34.8237,KPD-08-034,Ignimbirite,Zircon,10,0.5,0.82,0.52,8
+46,U-Pb,"Aydar et al., 2012",38.5235,34.8685,KL-01,Ignimbirite,Zircon,8.59,0.51,0.896,0.47,10
+47,U-Pb,"Aydar et al., 2012",38.5063,34.8534,KL-02A,Ignimbirite,Zircon,6.33,0.23,0.968,0.48,19
+48,U-Pb,"Aydar et al., 2012",38.4862,34.8198,KL-03,Ignimbirite,Zircon,6.66,0.4,0.138,1.51,10
+49,U-Pb,"Aydar et al., 2012",38.485,34.9303,KL-05,Ignimbirite,Zircon,5.11,0.37,0.972,0.31,10
+50,U-Pb,"Aydar et al., 2012",38.6253,34.8344,KL-10,Ignimbirite,Zircon,9.13,0.51,0.374,1.08,10
+51,U-Pb,"Aydar et al., 2012",38.7037,34.8335,KL-18,Ignimbirite,Zircon,9.13,0.4,0.558,0.9,15
+52,U-Pb,"Aydar et al., 2012",38.709,34.9839,KL-19,Ignimbirite,Zircon,8.32,0.37,0.988,0.36,16
+53,U-Pb,"Aydar et al., 2012",38.5481,34.5187,K-015,Ignimbirite,Zircon,77.8,4.4,0.384,1.06,7
+54,U-Pb,"Aydın et al., 2014",38.23083,34.54139,Goell-P,Rhyolite Pumice,Zircon,899,27,0,3.1,13
+55,U-Pb,"Aydın et al., 2014",38.27667,34.55417,Goell,Rhyolite Lava,Zircon,1.08,34,0,3.3,15
+56,U-Pb,"Aydın et al., 2014",38.01583,34.39278,KEC-1,Rhyolite Pumice,Zircon,438,13,0.011,2.1,14
+57,U-Pb,"Aydın et al., 2014",38.17583,34.42194,KEC-2,Rhyolite Pumice,Zircon,349,55,0.071,1.6,15
+58,U-Pb,"Aydın et al., 2014",38.11167,34.29028,K-84,Rhyolite Lava,Zircon,447,37,0.753,0.63,9
+59,U-Pb,"Aydın et al., 2014",38.11806,34.2775,K102P,Rhyolite Pumice,Zircon,339,50,0.437,1,10
+60,U-Pb,"Aydın et al., 2020",41.19867,41.77294,Ah-5,Rhyolitic Dome Lava,Zircon,86.51,0.35,0.998,0.24,15
+61,U-Pb,"Aydın et al., 2020",41.30373,41.84878,Ae4b,Rhyolitic Block Of Tuff-Breccia,Zircon,83.04,0.39,1,0.13,12
+62,U-Pb,"Aydın, 2014",40.82284,39.61366,M1-1,Tonalite-Porphyritic,Zircon,79.9,0.74,0.998,0.41,30
+63,U-Pb,"Aysal et al., 2012a",40.20875,27.39776,NA-205,Meta Granite,Zircon,389.1,2.6,0.271,1.18,18
+64,U-Pb,"Aysal et al., 2012a",40.03359,27.25333,YI-18,Meta Granite,Zircon,401.5,4.8,0.24,1.4,35
+65,U-Pb,"Aysal et al., 2012a",39.83713,27.31167,ÇMG-4,Meta Granite,Zircon,401.4,7.8,0.39,0.75,21
+66,U-Pb,"Aysal et al., 2012a",39.76335,27.15739,ÇMG-11,Meta Granite,Zircon,401.4,3.7,0.5,0.45,33
+67,U-Pb,"Aysal et al., 2012b",40.27019,28.34454,KR-9,Meta Granite,Zircon,400.3,2.8,0.18,1.3,23
+68,U-Pb,"Aysal et al., 2018a",41.76945,27.27771,KG-1,Granite,Zircon,268.8,2.1,0.22,1.5,21
+69,U-Pb,"Aysal et al., 2018a",41.02025,28.52247,ÇT-23,Granite,Zircon,249.4,1.5,0.49,0.96,18
+70,U-Pb,"Aysal et al., 2018a",40.90271,29.40805,G-16,Granite,Zircon,257.3,1.5,0.88,0.57,25
+71,U-Pb,"Aysal et al., 2018b",41.03648,29.03934,GD1,Mafic Dykes,Zircon,72.49,0.79,0.22,1.5,21
+72,U-Pb,"Aysal et al., 2018b",40.98877,29.07,ATA-2,Mafic Dykes,Zircon,65.44,0.93,0.23,1.4,21
+73,U-Pb,"Aysal et al., 2018b",40.87976,29.21687,P-1,Diorite,Zircon,58.9,1.8,0.072,3.2,13
+74,U-Pb,"Aysal et al., 2021",39.82769,27.52279,DG-5,Granite,Zircon,23.63,0.17,0.046,4,14
+75,U-Pb,"Aysal et al., 2024",39.89389,27.13547,KH-34a,Skarn,Zircon,25.26,0.3,1,0.34,53
+76,U-Pb,"Aysal et al., 2024",39.89626,27.13594,KH-34b,Skarn,Zircon,26.01,1.02,0,3.7,28
+77,U-Pb,"Aysal et al., 2024",39.89563,27.27743,NG-15a,Skarn,Zircon,24.85,1.68,0.019,1.5,43
+78,U-Pb,"Aysal et al., 2024",39.89579,27.29833,NG-15b,Skarn,Zircon,25.81,3.97,0,3.1,23
+79,U-Pb,"Aysal et al., 2024",39.89622,27.29122,NG-15c,Skarn,Zircon,21.03,0.38,0.003,1.5,73
+80,U-Pb,"Aysal et al., 2025",40.44616,29.73318,OC-8,Grey Marble,calcite,94.84,1.41,0,4.9,39
+81,U-Pb,"Aysal et al., 2025",40.44659,29.74428,OC-6,Grey Marble,calcite,88.03,2.13,0,3.7,53
+82,U-Pb,"Aysal et al., 2025",40.49353,29.72722,OC-10,White Marble,calcite,93.06,8.55,0.029,1.6,28
+83,U-Pb,"Aysal, 2015",39.98205,27.10464,Zeybekçayırı,Granitoid,Zircon,26.53,0.58,0.25,1.3,12
+84,U-Pb,"Aysal, 2015",39.57519,26.81759,Avcılar,Granitoid,Zircon,27.89,0.41,0,5.1,14
+85,U-Pb,"Aysal, 2015",39.96865,27.13473,Hıdırlar,Granitoid,Zircon,26.33,0.38,0,4.2,14
+86,U-Pb,"Aysal, 2015",39.90723,27.22089,Kurtlar,Granitoid,Zircon,25.39,0.55,0,5.9,14
+87,U-Pb,"Aysal, 2015",39.91908,27.29396,Namazgah,Granitoid,Zircon,24.79,0.38,0.399,1.05,14
+88,U-Pb,"Aysal, 2015",39.95744,27.26861,Nevruz-Çakıroba,Granitoid,Zircon,23.85,0.6,0,10.8,14
+89,U-Pb,"Aysal, 2015",40.02696,27.30434,Yapaztepe,Granitoid,Zircon,25.03,0.62,0.54,0.37,12
+90,U-Pb,"Aysal, 2015",39.94253,27.35768,Kızıldam,Granitoid,Zircon,22.87,0.35,0,7.6,14
+91,U-Pb,"Aysal, 2015",40.02646,27.3391,Sarıoluk,Granitoid,Zircon,23.97,1.06,0,11.4,21
+92,U-Pb,"Ballato et al., 2018",41.62327,33.5923,DVK-03,Granodiorite,Zircon,169.4,0.6,0.948,0.44,13
+93,U-Pb,"Ballato et al., 2018",41.83753,33.64623,KUR-11,Granodiorite,Zircon,169.4,0.6,1,0.02,26
+94,U-Pb,"Ballato et al., 2018",41.83668,34.08795,RTZ-03,Granodiorite,Zircon,322.2,2.7,0.171,1.3,20
+95,U-Pb,"Ballato et al., 2018",41.90932,33.95225,SEL-05,Granite,Zircon,309.8,1,0.996,0.35,20
+96,U-Pb,"Ballato et al., 2018",41.71303,34.53381,HAN-03,Granodiorite,Zircon,173.5,1.5,1,0.02,12
+97,U-Pb,"Ballato et al., 2018",41.57098,34.9765,KOZ-04,Granodiorite,Zircon,239.4,1.3,0.778,0.54,7
+98,U-Pb,"Becaletto et al., 2007",40.41876,27.26768,KB90,Granitoid,Zircon,52.7,3.8,0.36,1.1,8
+99,U-Pb,"Beyarslan et al., 2016",38.17886,38.86565,13TK51,Augen Gneiss,Zircon,551,6,0,3.7,21
+100,U-Pb,"Beyarslan et al., 2016",38.17886,38.86565,13TK54,Augen Gneiss,Zircon,544,4,0.109,1.4,21
+101,U-Pb,"Bozkaya et al., 2024",39.20908,38.37291,T5-B2,Limestone/Exoskarn,Zircon,46.53,9.1,0,5.8,20
+102,U-Pb,"Bozkaya et al., 2024",39.21191,38.37296,BİZ-29,Quartz Diorite,Zircon,45.63,4.62,0.004,1.9,30
+103,U-Pb,"Bozkaya et al., 2024",39.21397,38.3696,T4-C7,Quartz Diorite,Zircon,46.95,3.65,0.74,0.82,30
+104,U-Pb,"Candan et al., 2011 ",37.49596,28.26086,Apr-70,Leucocratic Metagrnaite Porphyry,Zircon,549,10.8,0.74,0.11,6
+105,U-Pb,"Candan et al., 2011 ",37.49165,28.26692,C 12,Leucocratic Metagrnaite Porphyry,Zircon,549.6,7.4,0.28,1.19,9
+106,U-Pb,"Candan et al., 2016a",39.274,28.844,2073,Granoblastic Metagranite,Zircon,321.9,5.2,0.787,0.59,9
+107,U-Pb,"Candan et al., 2016a",39.36551,28.20937,2243,Granoblastic Metagranite,Zircon,320.5,5,0.522,0.94,17
+108,U-Pb,"Candan et al., 2016a",39.35696,28.21291,2089,Porphyritic Metagranite,Zircon,324.4,4.6,0.796,0.71,18
+109,U-Pb,"Candan et al., 2016a",39.36923,28.21655,2093,Porphyritic Metagranite,Zircon,331.3,3.4,0.063,1.4,34
+110,U-Pb,"Candan et al., 2016a",39.33273,28.19453,2240,Porphyritic Metagranite,Zircon,314.9,4.8,0.186,1.3,17
+111,U-Pb,"Candan et al., 2016b",37.63471,27.7594,168,Metagabbro,Zircon,565.2,2.3,0.862,0.63,17
+112,U-Pb,"Candan et al., 2016b",38.3145,27.87518,170,Metagabbronorite,Zircon,554.9,8.8,0,10.9,14
+113,U-Pb,"Candan et al., 2016b",38.12186,27.74651,172,Metagabbro,Zircon,563.3,2.3,1,0.03,17
+114,U-Pb,"Candan et al., 2016b",38.12286,27.74043,173,Metagabbronorite,Zircon,563.8,2.9,0.755,0.74,17
+115,U-Pb,"Candan et al., 2016b",38.11969,27.74695,05-E,Eclogitic Metagabbro,Zircon,558.7,3.3,0.489,0.96,14
+116,U-Pb,"Candan et al., 2016b",38.11969,27.74695,05-F,Eclogitic Metagabbro,Zircon,535,3.3,0,8,15
+117,U-Pb,"Çetinkaplan et al., 2016",36.75814,31.96614,193/2A,Eclogite,Zircon,629,5.2,1,0.01,8
+118,U-Pb,"Çetinkaplan et al., 2016",36.58161,32.3041,198/1B,Eclogite,Zircon,84.7,3,0.221,1.4,6
+119,U-Pb,"Çimen et al., 2017",41.6754,34.0034,CN-3,Dacite Porphyry,Zircon,161.4,5.3,0.79,0.07,8
+120,U-Pb,"Çimen et al., 2017",41.6764,33.98461,SL-3,Granite,Zircon,169.9,1.7,1,0,19
+121,U-Pb,"Çimen et al., 2018",41.93945,33.91097,AK-7,Metarhyodacite,Zircon,176.4,5.9,0.31,1.04,4
+122,U-Pb,"Çimen et al., 2018",41.67319,33.97197,AK-14,Metarhyodacite,Zircon,156.3,2.9,1,0,20
+123,U-Pb,"Çimen et al., 2018",41.66989,33.90155,AK-22,Metarhyodacite,Zircon,161,12,0.007,3.2,4
+124,U-Pb,"Çimen et al., 2018",41.67385,33.97248,DV-11,Metadiorite,Zircon,163.3,8.8,1,0,20
+125,U-Pb,"Çimen et al., 2018",41.67459,33.97258,DVK-13,Granite,Zircon,164.9,2.9,0.89,0.41,8
+126,U-Pb,"Çimen et al., 2022",39.96569,36.99908,SVK,Carbonatite,Apatite,67.1,2.4,0.114,1.4,20
+127,U-Pb,"Çimen et al., 2025",41.52392,34.97961,DDG1,Dacite Porphyry,Zircon,84.2,1.8,0.68,0.18,12
+128,U-Pb,"Çimen et al., 2025",41.52278,34.97808,DDG2,Dacite Porphyry,Zircon,86.9,1.8,0.16,2,4
+129,U-Pb,"Çörtük et al., 2025",38.986366,35.747519,RA-225,Plagiogranite,Zircon,92.24,0.36,0.001,11,13
+130,U-Pb,"Çörtük et al., 2025",38.969992,35.776952,RA-216,Plagiogranite,Zircon,82.79,0.28,0.82,0.5,34
+131,U-Pb,"Dedeoğlu et al., 2022",37.65,31.33333,KY-1,Dacite,Zircon,557.1,3.7,1,0.08,26
+132,U-Pb,"Dedeoğlu et al., 2022",37.6,31.26666,KY-2,Diabase,Zircon,551.3,3.5,1,0.04,20
+133,U-Pb,"Dedeoğlu et al., 2022",37.6,31.23333,KY-3,Diabase,Zircon,569,7.2,1,0,10
+134,U-Pb,"Delibaş et al., 2011",39.894152,33.564817,LK43,Porphyritic Quartz Monzonite,Zircon,73.1,2.2,0.27,1.3,5
+135,U-Pb,"Dokuz et al., 2017",40.1981,39.89861,C24,Rhyolite,Zircon,341.8,1.2,0,6.3,46
+136,U-Pb,"Elitez et al., 2018",37.03739,29.08008,S3,Tuff,Zircon,6.93,0.08,0.63,0.23,25
+137,U-Pb,"Elmas et al., 2017",40.75186,27.29122,GA-1,Tuff,Zircon,51,2.1,0.974,0.07,4
+138,U-Pb,"Elmas et al., 2017",40.16911,25.74963,GÖ-53e,Tuff,Zircon,26.4,1.5,0.014,2,15
+139,U-Pb,"Elmas et al., 2017",40.15997,25.73104,GÖ-51,Granite,Zircon,26.2,1.9,0,7.1,8
+140,U-Pb,"Erbil et al., 2021",40.62113,27.09931,1933,Tuff,Zircon,31.65,0.37,0.609,0.88,20
+141,U-Pb,"Ersoy et al., 2017",40.09421,26.69466,C42,Andesite-Dacite,Zircon,43.15,0.54,0.4,0.7,14
+142,U-Pb,"Ersoy et al., 2017",40.00041,26.76521,C35,Andesite,Zircon,40.24,0.68,0.86,0.03,11
+143,U-Pb,"Ersoy et al., 2017",39.90443,26.79857,C12,Cpx-Andesite,Zircon,37.79,0.5,0.61,0.27,16
+144,U-Pb,"Ersoy et al., 2017",40.05925,26.74485,C17,Andesite,Zircon,36.38,0.46,0.34,0.91,17
+145,U-Pb,"Ersoy et al., 2017",39.94804,26.8273,C16,Dacite,Zircon,37.66,1.38,0.19,1.7,13
+146,U-Pb,"Ersoy et al., 2017",40.12753,26.65519,C41,Dacite-Rhyolite,Zircon,37.29,1.54,0.019,5.5,11
+147,U-Pb,"Ersoy et al., 2017",40.34454,27.00421,B11,Dacite,Zircon,36.05,1.16,0.86,0.03,15
+148,U-Pb,"Ersoy et al., 2017",40.35573,26.83859,B20,Andesite,Zircon,35.09,2,0.86,0.03,7
+149,U-Pb,"Ersoy et al., 2017",40.12753,26.65519,C3B,Basalt,Zircon,32.71,1.3,0.54,0.38,11
+150,U-Pb,"Ersoy et al., 2017",40.20309,26.79903,B21,Rhyolite,Zircon,29.71,1.28,0.098,2.7,10
+151,U-Pb,"Ersoy et al., 2017",39.84082,26.81953,C10,Rhyolite,Zircon,32.04,0.62,0.78,0.08,8
+152,U-Pb,"Ersoy et al., 2017",40.24063,26.81899,B29,Andesite,Zircon,31.24,0.46,0.45,0.57,13
+153,U-Pb,"Ersoy et al., 2017",40.18496,26.64088,C1B,Rhyolite,Zircon,31.05,0.44,0.26,1.3,14
+154,U-Pb,"Ersoy et al., 2017",40.08673,26.93195,C46,Rhyolite,Zircon,30.79,0.42,0.23,1.5,12
+155,U-Pb,"Ersoy et al., 2017",40.31263,26.87507,B36,Cpx-Andesite,Zircon,30.54,0.42,0.5,0.45,14
+156,U-Pb,"Ersoy et al., 2017",39.99807,26.9004,C18,Andesite,Zircon,27.47,0.36,0.88,0.02,13
+157,U-Pb,"Ersoy et al., 2017",40.25748,26.86525,B23,Rhyolite,Zircon,31.42,0.44,0.89,0.02,14
+158,U-Pb,"Ersoy et al., 2017",40.00979,26.90477,C20,Andesite,Zircon,26.81,0.28,0.71,0.13,19
+159,U-Pb,"Ersoy et al., 2017",39.64785,27.23072,HG1,Andesite-Dacite,Zircon,24.09,1.1,0.62,0.24,11
+160,U-Pb,"Ersoy et al., 2017",39.77357,27.21596,HG12,Andesite-Dacite,Zircon,24.74,0.28,0.67,0.18,19
+161,U-Pb,"Ersoy et al., 2017",38.96879,27.2761,HG2,Andesite-Dacite,Zircon,24.75,0.34,0.43,0.62,14
+162,U-Pb,"Ersoy et al., 2017",39.5588,27.05166,HG13,Andesite-Dacite,Zircon,24.74,0.46,0.036,4.4,9
+163,U-Pb,"Ersoy et al., 2017",40.1369,27.33116,HG9,Andesite-Dacite,Zircon,23.59,0.98,0.19,1.7,12
+164,U-Pb,"Ersoy et al., 2017",39.97832,27.26902,HG3,Andesite-Dacite,Zircon,22.47,1.04,0.32,0.99,12
+165,U-Pb,"Ersoy et al., 2023",39.46699,31.51988,SV2,Monzonite,Zircon,55.62,1.22,0.51,0.44,15
+166,U-Pb,"Ersoy et al., 2023",39.41301,31.70155,SV5,Granodiorite,Zircon,51.3,1.22,0.82,0.05,6
+167,U-Pb,"Ersoy et al., 2023",39.39188,31.74424,SV7,Pegmatite,Zircon,40.85,0.68,0.25,1.3,12
+168,U-Pb,"Ersoy et al., 2023",39.6306,31.00999,TK1,Tonalite,Zircon,44.3,1.38,0.53,0.04,10
+169,U-Pb,"Ersoy et al., 2023",39.52589,31.1796,KY1,Granite,Zircon,53.73,1.08,0.8,0.07,9
+170,U-Pb,"Ertürk et al., 2023",38.15766,38.18852,EK-2,Dacite/Rhyolite,Zircon,16.66,0.23,0.001,11,12
+171,U-Pb,"Ertürk et al., 2023",38.17956,38.2022,EK-9,Dacite/Rhyolite,Zircon,16.83,0.09,0.092,2.8,12
+172,U-Pb,"Ertürk., 2025",38.56341,39.434305,E4,Basaltic Andesite,Zircon,83.93,1.21,1,0.01,12
+173,U-Pb,"Eyüboğlu et al., 2011a",40.13393,40.0542,SC-4,Granodiorite,Zircon,55.21,0.45,0.51,0.95,21
+174,U-Pb,"Eyüboğlu et al., 2011a",40.06962,40.12919,SH-31B,Granodiorite,Zircon,53.03,0.59,0,2.6,20
+175,U-Pb,"Eyüboğlu et al., 2011a",40.13406,39.81697,CC-8,Porphyry,Zircon,53,0.74,0.002,2.2,20
+176,U-Pb,"Eyüboğlu et al., 2011a",40.1326,40.0523,SC-29,Porphyry,Zircon,53.98,0.59,0.083,1.5,20
+177,U-Pb,"Eyüboğlu et al., 2011a",40.1282,40.0069,GZ-4,Porphyry,Zircon,54.91,0.03,0.87,0.14,5
+178,U-Pb,"Eyüboğlu et al., 2011b",40.5242,35.78458,F-19,Gabbro,Zircon,203.3,4.9,0.071,1.9,8
+179,U-Pb,"Eyüboğlu et al., 2011c",40.0431,40.50639,V-165,Adakitic Quartz Diorite,Zircon,55.83,0.04,0.472,0.75,3
+180,U-Pb,"Eyüboğlu et al., 2011c",40.1334,40.0402,SC-4,Adakitic Granodiorite,Zircon,55.21,0.45,0.51,0.95,16
+181,U-Pb,"Eyüboğlu et al., 2011c",40.38877,39.69134,AR-1,Adakitic Andesite,Zircon,48.71,0.74,0.116,1.5,13
+182,U-Pb,"Eyüboğlu et al., 2011c",40.38662,40.14628,AD-19,Non-Adakitic Granite,Zircon,42.06,0.67,0.013,1.9,17
+183,U-Pb,"Eyüboğlu et al., 2011c",40.25524,39.27088,C-30,Non-Adakitic Granodiorite,Zircon,46,1,0.489,0.94,10
+184,U-Pb,"Eyüboğlu et al., 2011d",40.08039,38.77511,SM-7,Quartz Diorite,Zircon,53.16,0.45,0.56,0.92,20
+185,U-Pb,"Eyüboğlu et al., 2012",40.52817,41.57534,O-19,Dacite,Zircon,7.86,0.15,0,3.7,10
+186,U-Pb,"Eyüboğlu et al., 2012",40.528172,41.560225,UD-2,Dacite,Zircon,8.79,0.19,0,5.3,9
+187,U-Pb,"Eyüboğlu et al., 2013a",40.05117,40.51278,V-165,Adakite,Zircon,55.83,0.04,0.472,0.75,3
+188,U-Pb,"Eyüboğlu et al., 2013b",40.40261,39.63713,AR-1,Biotite-Rich Andesite,Zircon,48.71,0.74,0.116,1.5,13
+189,U-Pb,"Eyüboğlu et al., 2013b",40.38819,39.7212,HT-100,Andesite,Zircon,44.68,0.84,0.001,2.5,16
+190,U-Pb,"Eyüboğlu et al., 2014",40.87757,38.86322,YL-1,Dacite,Zircon,91,2.6,0.035,2,10
+191,U-Pb,"Eyüboğlu et al., 2015",40.39887,39.65109,KPR-3,Felsic Tuff,Zircon,84.05,0.94,0.9,0.41,8
+192,U-Pb,"Eyüboğlu et al., 2015",40.39414,39.65768,KPPR-9,Felsic Tuff,Zircon,81.09,0.62,0.3,1.16,13
+193,U-Pb,"Eyüboğlu et al., 2015",40.40056,39.65013,KPR-14,Felsic Tuff,Zircon,77.1,1,0.27,1.2,11
+194,U-Pb,"Eyüboğlu et al., 2016a",40.7959,40.44633,ARH25,Gabbro,Zircon,43.54,0.32,0.968,0.37,12
+195,U-Pb,"Eyüboğlu et al., 2016a",41.09247,37.3035,ARH26,Gabbro,Zircon,43.6,0.3,0.945,0.6,27
+196,U-Pb,"Eyüboğlu et al., 2016b",40.81458,41.63804,YSF-2,Gabbro,Zircon,183.8,6.8,0.903,0.19,4
+197,U-Pb,"Eyüboğlu et al., 2016b",40.88539,41.73905,RN-31,Granitic Dyke,Zircon,181.2,1.7,0.191,1.4,9
+198,U-Pb,"Eyüboğlu et al., 2016b",40.8456,41.67544,YE-120,Tonalite,Zircon,177.6,2.4,0.498,0.92,9
+199,U-Pb,"Eyüboğlu et al., 2016b",40.72845,42.18458,KDB-2,Tonalite,Zircon,184.8,4.3,0,3.1,13
+200,U-Pb,"Eyüboğlu et al., 2016b",40.38014,39.57757,GSK-1,Tonalite,Zircon,172.9,1,0.998,0.05,6
+201,U-Pb,"Eyüboğlu et al., 2016b",40.35908,39.56795,AR-62,Quartz Diorite,Zircon,171.7,3.5,0,3.2,15
+202,U-Pb,"Eyüboğlu et al., 2016b",40.04297,40.5501,14TK90-2,Pegmatic Gabbro,Zircon,176,2,0.09,1.5,17
+203,U-Pb,"Eyüboğlu et al., 2016b",40.00999,40.47714,T-68,Tonalite,Zircon,180.88,0.29,0.247,1.4,3
+204,U-Pb,"Eyüboğlu et al., 2016b",39.98486,40.39135,T-61,Tonalite,Zircon,177.7,3.2,0,2.7,19
+205,U-Pb,"Eyüboğlu et al., 2017",40.50362,38.34743,DR-18,Granitoid,Zircon,47.96,0.77,0,4.5,13
+206,U-Pb,"Eyüboğlu et al., 2017",40.49548,38.34671,DR-22,Granitoid,Zircon,43.7,0.4,0,3.2,13
+207,U-Pb,"Eyüboğlu et al., 2017",40.09887,37.98703,DR-144,Granitoid,Zircon,44.6,0.3,0,9.9,18
+208,U-Pb,"Eyüboğlu et al., 2017",40.10008,37.91261,DR-145,Granitoid,Zircon,43.5,0.3,0.998,0.3,19
+209,U-Pb,"Eyüboğlu et al., 2017",40.133761,38.011136,DR-147,Granitoid,Zircon,42.9,0.3,1,0,19
+210,U-Pb,"Eyüboğlu et al., 2017",40.056,38.03321,DR-162,Granitoid,Zircon,42.3,0.3,0,3.7,19
+211,U-Pb,"Eyüboğlu et al., 2017",40.25842,39.27708,C-30,Granitoid,Zircon,46,1,0.489,0.94,10
+212,U-Pb,"Eyüboğlu et al., 2017",40.4799,39.70834,DLK-27,Granitoid,Zircon,44.75,0.42,0.102,1.5,15
+213,U-Pb,"Eyüboğlu et al., 2017",40.48484,39.70218,DLK-6,Granitoid,Zircon,45.55,0.47,0.102,1.5,15
+214,U-Pb,"Eyüboğlu et al., 2017",40.45421,39.74571,KTS-9,Granitoid,Zircon,45,1.3,0,3.6,14
+215,U-Pb,"Eyüboğlu et al., 2017",40.43968,39.85613,SCK-15,Granitoid,Zircon,44.01,0.5,0.004,2.3,15
+216,U-Pb,"Eyüboğlu et al., 2017",40.46238,40.04758,SCR-4,Granitoid,Zircon,44.53,0.5,0.992,0.26,12
+217,U-Pb,"Eyüboğlu et al., 2017",40.45499,40.0488,SCR-20,Granitoid,Zircon,44.23,0.89,0.034,1.9,12
+218,U-Pb,"Eyüboğlu et al., 2017",40.47575,40.28472,YKC-7,Granitoid,Zircon,44.86,0.68,0.093,1.7,9
+219,U-Pb,"Eyüboğlu et al., 2017",40.48999,40.38391,CLS-5,Granitoid,Zircon,45.69,1.2,0.34,1.08,3
+220,U-Pb,"Eyüboğlu et al., 2017",40.38104,40.46857,AD-22,Granitoid,Zircon,42.06,0.67,0.014,1.9,18
+221,U-Pb,"Eyüboğlu et al., 2017",40.39386,40.49863,AD-48,Granitoid,Zircon,43.3,0.89,0,3.1,17
+222,U-Pb,"Eyüboğlu et al., 2017",40.38646,40.6333,AD-20,Granitoid,Zircon,43.37,0.78,0.996,0.25,13
+223,U-Pb,"Eyüboğlu et al., 2017",40.48029,40.81112,EG-11,Granitoid,Zircon,41.8,0.4,0.271,1.2,14
+224,U-Pb,"Eyüboğlu et al., 2017",40.48733,40.82097,EG-23,Granitoid,Zircon,42.4,0.5,0.679,0.8,16
+225,U-Pb,"Eyüboğlu et al., 2017",40.45355,40.89697,EG-29,Granitoid,Zircon,42.5,0.2,0.1,1.4,23
+226,U-Pb,"Eyüboğlu et al., 2017",40.456,40.92212,EG-33,Granitoid,Zircon,42.2,0.4,0.441,1.01,16
+227,U-Pb,"Eyüboğlu et al., 2018a",40.25848,40.07166,BT-1,Felsic Tuff,Zircon,46.98,0.9,0.495,0.94,11
+228,U-Pb,"Eyüboğlu et al., 2018b",40.53989,35.83426,SY-2,Clinopyroxene Gabbro,Titanite,256,23,0.007,3.2,6
+229,U-Pb,"Eyüboğlu et al., 2019",40.68272,38.41482,DR-3,Granitoid,Zircon,89.7,1.2,0.054,1.7,14
+230,U-Pb,"Eyüboğlu et al., 2019",40.63801,38.38418,DR-7,Granitoid,Zircon,89.5,1.4,0.285,1.2,11
+231,U-Pb,"Eyüboğlu et al., 2019",40.60017,38.36041,DR-14,Granitoid,Zircon,82.6,4.4,0.048,2.4,5
+232,U-Pb,"Eyüboğlu et al., 2019",40.45218,38.39851,DR-31,Granitoid,Zircon,84.2,0.8,1,0.12,17
+233,U-Pb,"Eyüboğlu et al., 2019",40.44729,38.39438,DR-34,Granitoid,Zircon,78,0.6,0.971,0.4,14
+234,U-Pb,"Eyüboğlu et al., 2019",40.42588,38.39432,DR--41,Granitoid,Zircon,78.2,0.6,0.258,1.2,17
+235,U-Pb,"Eyüboğlu et al., 2019",40.41956,38.3912,DR-46,Granitoid,Zircon,74.4,0.6,0.844,0.64,16
+236,U-Pb,"Eyüboğlu et al., 2019",40.40973,38.39898,DR-53,Granitoid,Zircon,77.1,0.8,0.997,0.3,18
+237,U-Pb,"Eyüboğlu et al., 2019",40.38389,38.43412,DR-61,Granitoid,Zircon,77.6,2.2,1,0.08,16
+238,U-Pb,"Eyüboğlu et al., 2019",40.35321,38.5512,DR-63,Granitoid,Zircon,77.1,0.4,0,11.2,17
+239,U-Pb,"Eyüboğlu et al., 2019",40.34365,38.44329,DR-69,Granitoid,Zircon,79.1,1,0.997,0.3,18
+240,U-Pb,"Eyüboğlu et al., 2019",40.34931,38.44273,DR-65,Granitoid,Zircon,66.1,2,0,3.2,13
+241,U-Pb,"Eyüboğlu et al., 2019",39.17406,37.97397,DR-123,Granitoid,Zircon,75,0.8,0,6.5,12
+242,U-Pb,"Eyüboğlu et al., 2019",39.43526,38.08883,DR-124,Granitoid,Zircon,75.6,1,1,0.03,17
+243,U-Pb,"Eyüboğlu et al., 2019",39.44084,37.06033,DR-129,Granitoid,Zircon,76.5,1.2,0.997,0.3,18
+244,U-Pb,"Eyüboğlu et al., 2019",39.3764,37.99299,DR-106,Granitoid,Zircon,75.3,1.2,0.077,1.6,14
+245,U-Pb,"Eyüboğlu et al., 2019",39.35271,37.95841,DR-117,Granitoid,Zircon,74.8,0.4,0.949,0.5,17
+246,U-Pb,"Eyüboğlu et al., 2019",39.17406,37.97397,DR-80,Granitoid,Zircon,76.8,1,0.695,0.8,18
+247,U-Pb,"Eyüboğlu et al., 2019",39.48729,38.20109,DR-140,Granitoid,Zircon,73.5,0.6,0.687,0.8,17
+248,U-Pb,"Eyüboğlu et al., 2019",39.48976,38.20545,DR-141,Granitoid,Zircon,76.3,1.2,0.964,0.4,13
+249,U-Pb,"Eyüboğlu et al., 2019",41.2282,42.03703,DR-164,Granitoid,Zircon,79.7,0.8,0.014,2.3,10
+250,U-Pb,"Eyüboğlu et al., 2019",39.40228,37.98029,DR-96,Granitoid,Zircon,74.1,1,0.492,0.96,15
+251,U-Pb,"Eyüboğlu et al., 2019",39.3536,37.94479,DR-114,Granitoid,Zircon,75.3,1.4,0,7.5,18
+252,U-Pb,"Eyüboğlu et al., 2019",39.43526,38.08883,DR-91,Granitoid,Zircon,64.5,0.6,0.996,0.3,16
+253,U-Pb,"Eyüboğlu et al., 2021a",40.18774,40.17465,BC-20,Dacite Porphyry,Zircon,76.2,1.4,0,6.4,9
+254,U-Pb,"Eyüboğlu et al., 2021a",40.19774,40.17465,CB-2,Dacite Porphyry,Zircon,76.9,0.3,0.253,1.3,7
+255,U-Pb,"Eyüboğlu et al., 2021a",40.18031,40.24749,CB-11,Andesite Porphyry,Zircon,76.9,0.4,0.404,1.02,6
+256,U-Pb,"Eyüboğlu et al., 2021a",40.14771,40.22798,KP-12,Hornblendite,Zircon,81.1,0.9,0.684,0.38,3
+257,U-Pb,"Eyüboğlu et al., 2021a",40.18207,40.15381,BC-37,Hornblendite,Zircon,77.9,0.8,0,4.6,20
+258,U-Pb,"Eyüboğlu et al., 2021a",40.17094,40.24055,CB-4,Quartz Syenite,Zircon,77.9,0.4,0.89,0.21,4
+259,U-Pb,"Eyüboğlu et al., 2021a",40.16858,40.24148,CB-5,Quartz Syenite,Zircon,77.5,0.3,0.034,2.6,5
+260,U-Pb,"Eyüboğlu et al., 2021a",40.18199,40.1677,BC-36,Quartz Syenite,Zircon,79.6,2.2,0.015,3.5,4
+261,U-Pb,"Eyüboğlu et al., 2021a",40.18774,40.17465,BC-20,Dacite Porphyry,Zircon,68.27,0.3,0.037,3.3,3
+262,U-Pb,"Eyüboğlu et al., 2021a",40.18774,40.17465,CB-2,Dacite Porphyry,Zircon,71.3,0.2,0.93,0.27,6
+263,U-Pb,"Eyüboğlu et al., 2021a",40.18031,40.24749,CB-11,Andesite Porphyry,Zircon,70.75,0.47,0.204,1.53,4
+264,U-Pb,"Eyüboğlu et al., 2021a",40.17094,40.24055,CB-4,Quartz Syenite,Zircon,69.9,0.2,0.006,2.3,13
+265,U-Pb,"Eyüboğlu et al., 2021a",40.16858,40.24148,CB-5,Quartz Syenite,Zircon,70.1,0.2,0.004,2.8,9
+266,U-Pb,"Eyüboğlu et al., 2021a",40.18199,40.1677,BC-36,Quartz Syenite,Zircon,69.9,1.1,0.066,2.2,5
+267,U-Pb,"Eyüboğlu et al., 2021a",40.18199,40.1677,BC-36,Quartz Syenite,Zircon,65.8,0.8,0.966,0.09,4
+268,U-Pb,"Eyüboğlu et al., 2021a",40.18774,40.17465,BC-20,Dacite Porphyry,Zircon,61.89,0.13,0.317,1,2
+269,U-Pb,"Eyüboğlu et al., 2021b",40.85034,35.21408,ZK-20,Trachyandesite,Zircon,81.93,1.03,0.794,0.42,5
+270,U-Pb,"Eyüboğlu et al., 2021b",40.33065,38.76465,KTB-8,Trachyte,Zircon,78.6,0.4,0.971,0.4,14
+271,U-Pb,"Eyüboğlu et al., 2021b",40.3202,40.92187,MLK-6,Trachyandesite,Zircon,83.43,0.53,0.316,1.14,15
+272,U-Pb,"Eyüboğlu et al., 2021b",40.3873,37.3361,ATS-7,Rhyodacite,Zircon,79.8,0.51,0.13,1.6,8
+273,U-Pb,"Eyüboğlu et al., 2021b",40.63267,35.83131,GMZ-10,Red Trachyte,Zircon,79,9.1,0,4.9,24
+274,U-Pb,"Eyüboğlu et al., 2021b",40.31682,38.77481,KTB-17,Dacite,Zircon,82.4,0.4,0.987,0.38,17
+275,U-Pb,"Eyüboğlu et al., 2021b",40.82235,39.61961,MCK-5,Dacite Porphyry,Zircon,82.8,1.7,0.542,0.81,6
+276,U-Pb,"Eyüboğlu et al., 2025",40.30962,39.27213,C-173,Andesite Porphyry,Zircon,205.3,2.3,0.002,2.8,11
+277,U-Pb,"Eyüboğlu et al., 2025",40.31927,39.24831,C-330,Andesite Porphyry,Zircon,203.6,1.3,0.124,1.5,12
+278,U-Pb,"Eyüboğlu et al., 2025",40.31186,39.08804,C-187,Andesite Porphyry,Zircon,205.4,1,0.192,1.3,16
+279,U-Pb,"Eyüboğlu et al., 2025",40.31012,39.094,C-56,Contact Metamorphosed Andesite Porphyry,Zircon,207.6,2.4,0.084,1.6,13
+280,U-Pb,"Eyüboğlu et al., 2025",40.25308,39.30688,EL-4,Quartz Diorite Porphyry,Zircon,206.9,1.2,0.988,0.4,19
+281,U-Pb,"Eyüboğlu et al., 2025",40.25476,39.2988,C-198,Quartz Diorite Porphyry,Zircon,205,1.2,0.976,0.4,15
+282,U-Pb,"Eyüboğlu et al., 2025",40.23898,39.30104,C-127A,Quartz Diorite Porphyry,Zircon,204.4,1.7,0.998,0.33,22
+283,U-Pb,"Eyüboğlu et al., 2025",40.22958,39.27069,C-205,Diabase,Zircon,173.9,1.4,0.608,0.72,6
+284,U-Pb,"Eyüboğlu et al., 2025",40.22912,39.30661,C-201,Amp-Poor Andesite Porphyry,Zircon,174.84,0.9,1,0.21,17
+285,U-Pb,"Eyüboğlu et al., 2025",40.40451,38.43066,C-317,Amp-Rich Andesite Porphyry,Zircon,172.6,1.4,0,2.6,26
+286,U-Pb,"Eyüboğlu et al., 2025",40.23248,39.72321,GSK-2,Tonalite,Zircon,172.9,0.9,0.836,0.66,17
+287,U-Pb,"Gessner et al., 2004",37.53016,27.9465,TAB,Metagranite,Zircon,541,28,0.047,1.9,10
+288,U-Pb,"Gessner et al., 2004",37.50403,27.64448,TU23,Metagranite,Zircon,566,18,0.982,0.36,14
+289,U-Pb,"Göçmengil et al., 2025",40.12078,36.91539,904,Leucogabbro,Zircon,44.1,3.3,0.73,0.82,4
+290,U-Pb,"Gücer et al., 2016",41.62303,33.97728,DA3,Biotite-Microcline Gneiss,Zircon,252.5,8.8,0.037,1.8,28
+291,U-Pb,"Gücer et al., 2016",41.61754,33.97059,DG9,Biotite-Microcline Gneiss,Zircon,273,18,0,8.7,16
+292,U-Pb,"Gücer et al., 2016",41.61957,33.95558,G3,Quartz-Feldspathic Gneiss,Zircon,316.1,8.8,0.3,1.09,23
+293,U-Pb,"Güloğlu et al., 2025",40.536019,38.834226,S13,Gabbroic Diorite,Zircon,46.1,0.26,0.85,0.62,15
+294,U-Pb,"Güloğlu et al., 2025",40.521151,38.8829,S19,Granodiorite,Zircon,45.37,0.29,0.17,1.4,11
+295,U-Pb,"Günay et al., 2022",41.61433,34.40665,ZA-6,Dacite,Zircon,165,12,1,0.05,12
+296,U-Pb,"Günay et al., 2022",41.61433,34.40665,ZA-7,Dacite,Zircon,170,4,0.746,0.66,10
+297,U-Pb,"Güngör et al., 2018",37.02719,28.63095,C,Metamorphic Sole,Zircon,96.7,1.58,0.26,1.3,5
+298,U-Pb,"Güngör et al., 2025",38.86319,27.88089,A,Metarhyolite,Zircon,237.4,1.1,0.26,1.3,24
+299,U-Pb,"Hasözbek et al., 2010",39.20491,28.81724,739,Gneiss,Zircon,543,10,0.034,2.9,4
+300,U-Pb,"Hasözbek et al., 2010",39.29847,29.01619,737A,Metagranite,Zircon,30.04,0.56,0.021,2.9,5
+301,U-Pb,"Hasözbek et al., 2010",39.29814,28.93248,1211,Granite,Zircon,21.7,1,0.696,0.48,4
+302,U-Pb,"Hasözbek et al., 2010",39.3615,29.01885,1212,Granite,Zircon,19.3,4.4,0,33,5
+303,U-Pb,"İskenderoğlu and Aysal, 2021",38.77876,27.35122,K-15,Volcanic Rock,Zircon,17.64,0.4,0.37,0.79,19
+304,U-Pb,"İskenderoğlu and Aysal, 2021",38.77889,27.34912,K-16,Volcanic Rock,Zircon,17.22,0.3,0.15,2.1,29
+305,U-Pb,"İskenderoğlu and Aysal, 2021",38.77855,27.34594,K-13,Volcanic Rock,Zircon,16.16,0.34,0.13,2.3,23
+306,U-Pb,"İskenderoğlu and Aysal, 2021",38.7653,27.35017,Ç-52,Volcanic Rock,Zircon,16.36,0.26,0.055,3.7,21
+307,U-Pb,"İskenderoğlu and Aysal, 2021",38.76385,27.35072,Ç-54,Volcanic Rock,Zircon,15.79,1.42,0.29,1.14,11
+308,U-Pb,"İskenderoğlu and Aysal, 2021",38.76205,27.35005,Ç-58,Volcanic Rock,Zircon,13.61,0.4,0.16,2,19
+309,U-Pb,"Kandemir et al., 2019",41.3259,41.25394,R3,Granitoid,Zircon,85.21,0.25,0.105,1.3,38
+310,U-Pb,"Karaoğlan et al., 2013a",38.4599,38.88983,FK10,Kömürhan Ophiolite-Rhyolite,Zircon,74.6,4.4,0.016,5.8,3
+311,U-Pb,"Karaoğlan et al., 2013a",38.46,38.91283,FK48,Göksun Ophiolite-Rhyolite,Zircon,83.1,2.2,0.016,5.8,3
+312,U-Pb,"Karaoglan et al., 2013b",38.32011,38.58125,FK08-44,Gabbro,Zircon,84.5,3.9,0.16,2,3
+313,U-Pb,"Karaoğlan et al., 2013b",38.43594,38.98617,FK12,Gabbro,Zircon,87.2,3.1,0.11,2.5,4
+314,U-Pb,"Karaoğlan et al., 2013c",38.09988,37.75617,FK13,Tonalite,Zircon,45.7,1,0.85,0.04,10
+315,U-Pb,"Karaoğlan et al., 2013c",38.04489,37.68358,FK14,Granodiorite,Zircon,46.9,1.5,0.84,0.04,13
+316,U-Pb,"Karaoğlan et al., 2013c",38.02208,37.71414,FK15,Diorite,Zircon,48.7,0.68,0.24,1.4,17
+317,U-Pb,"Karaoğlan et al., 2013c",38.078,37.70003,FK31,Diorite,Zircon,50.8,1.1,0.26,1.3,7
+318,U-Pb,"Karaoğlan et al., 2016",38.62139,38.83083,FK02,Granite,Zircon,83.3,3.2,0.3,1.06,10
+319,U-Pb,"Karaoğlan et al., 2016",38.61639,38.8275,FK03,Granite,Zircon,88,1.7,0.092,2.8,11
+320,U-Pb,"Karaoğlan et al., 2016",38.53417,38.83806,FK04,Granite,Zircon,83.1,1.6,0.78,0.08,12
+321,U-Pb,"Karaoğlan et al., 2016",38.50722,38.79111,FK07,Granodiorite,Zircon,83.1,1.6,0.16,1.9,22
+322,U-Pb,"Karaoğlan et al., 2016",38.32389,38.53361,FK28,Granite,Zircon,84.14,0.81,0.54,0.38,46
+323,U-Pb,"Karaoğlan et al., 2016",38.16389,36.80444,FK20,Granite,Zircon,83.9,2.6,0.62,0.25,18
+324,U-Pb,"Karaoğlan et al., 2016",38.15472,36.81528,FK21,Granodiorite,Zircon,82.9,2.5,0.85,0.03,30
+325,U-Pb,"Karaoğlan et al., 2016",38.13833,36.87472,FK22,Granite,Zircon,81.2,1.4,0.8,0.06,19
+326,U-Pb,"Karslı et al., 2012a",40.88158,39.10937,SD4,Monzonite,Zircon,41.6,0.6,0.081,1.4,28
+327,U-Pb,"Karslı et al., 2012b",41.2519,42.08086,AS20,Quartz Monzonite,Zircon,81.2,2,0.066,1.5,22
+328,U-Pb,"Karslı et al., 2016",40.35465,39.34057,CM21,Diorite,Zircon,302.01,1.36,0.976,0.55,30
+329,U-Pb,"Karslı et al., 2017",40.11544,39.77542,GD1,Gabbro,Zircon,176.95,0.98,0.35,1.08,30
+330,U-Pb,"Karslı et al., 2017",40.11297,39.78954,GD23,Gabbroic Diorite,Zircon,178.41,0.88,0.32,1.1,30
+331,U-Pb,"Karslı et al., 2018",40.6076,37.97746,CB20,Monzonite,Zircon,72.82,0.62,0.863,0.72,30
+332,U-Pb,"Karslı et al., 2018",40.62195,37.7545,TC8,Monzonite,Zircon,73.48,0.6,0.211,1.2,30
+333,U-Pb,"Karslı et al., 2019",40.82657,40.63631,CK 8,Adakitic Volcanics,Zircon,5.25,0.12,0.999,0.41,35
+334,U-Pb,"Karslı et al., 2019",40.82657,40.63631,CK 8,Adakitic Volcanics,Zircon,48.9,2.8,0.948,0.12,4
+335,U-Pb,"Karslı et al., 2020a",40.38718,39.51587,KKL24,Quartz Diorite,Zircon,50.1,1.5,0.034,0.85,5
+336,U-Pb,"Karslı et al., 2020b",39.9873,30.05902,B3,Metagranitoid,Zircon,425.9,3.3,0.51,0.43,9
+337,U-Pb,"Karslı et al., 2020b",39.96317,30.02283,B4,Metagranitoid,Zircon,428.5,4.7,0.3,1.09,12
+338,U-Pb,"Karslı et al., 2020b",39.94536,29.95195,B11,Metagranitoid,Zircon,405.9,2.5,0.27,1.2,12
+339,U-Pb,"Karslı et al., 2020b",40.04918,30.22996,BR1,Metagranitoid,Zircon,431,2.7,0.56,0.34,10
+340,U-Pb,"Karslı et al., 2020b",40.04738,30.22383,BR6,Metagranitoid,Zircon,403.9,3.5,0.2,1.7,11
+341,U-Pb,"Karslı et al., 2020b",40.04636,30.21763,BR7,Metagranitoid,Zircon,403.6,5.6,0.41,0.68,7
+342,U-Pb,"Karslı et al., 2022a",40.04044,29.95813,D4,Granite,Zircon,161.4,1.2,0.07,3.3,8
+343,U-Pb,"Karslı et al., 2022a",40.03065,29.91935,D9,Granite,Zircon,162.8,1.4,0.34,0.9,9
+344,U-Pb,"Karslı et al., 2022a",40.06864,30.07889,KS5,Granite,Zircon,157.2,1.9,0.067,3.4,10
+345,U-Pb,"Karslı et al., 2022a",40.06511,30.08008,KS7,Granite,Zircon,159.9,1.6,0.11,2.5,13
+346,U-Pb,"Karslı et al., 2022a",40.06319,30.0808,KS11,Granite,Zircon,160.5,1.7,0.18,1.8,13
+347,U-Pb,"Karslı et al., 2022b",40.81069,41.62967,KM3,Granitoid,Zircon,530,2.8,0.26,1.2,7
+348,U-Pb,"Karslı et al., 2022b",40.80916,41.63525,KM4,Granitoid,Zircon,534.7,5.7,0.17,1.9,7
+349,U-Pb,"Karslı et al., 2022b",40.81069,41.62967,KM3(met-rim),Granitoid,Zircon,328.4,2.8,0.37,0.79,6
+350,U-Pb,"Karslı et al., 2022b",40.80916,41.63525,KM4(met-rim),Granitoid,Zircon,328.7,3.8,0.51,0.43,6
+351,U-Pb,"Karslı et al., 2023",40.03889,30.20183,BR19,Metagranite,Zircon,461,7.7,0.23,1.4,7
+352,U-Pb,"Karslı et al., 2023",40.03787,30.19863,BR5,Metagranite,Zircon,482,6.5,0.92,0.01,5
+353,U-Pb,"Kasapoğlu et al., 2016",40.15323,31.08787,NB-5,Basalt,Zircon,51.7,4.7,0.004,3.9,5
+354,U-Pb,"Kasapoğlu et al., 2016",40.1589,30.99268,NB-28,Andesite,Zircon,49.3,1.2,0.992,0.01,3
+355,U-Pb,"Kasapoğlu et al., 2016",40.02468,30.60101,NB-33,Andesite,Zircon,49.1,0.8,0.725,0.7,11
+356,U-Pb,"Kasapoğlu et al., 2016",40.23995,31.12859,NB-39,Andesite,Zircon,50.5,1.2,0.998,0.01,4
+357,U-Pb,"Kasapoğlu et al., 2016",40.14839,31.09119,NB-8,Rhyolite,Zircon,47.8,0.7,0.809,0.4,5
+358,U-Pb,"Kaygısız et al., 2024",41.9332,26.81623,S1-43,Garnet-Mica Schist,Zircon,302.33,1.79,0.995,0.44,28
+359,U-Pb,"Kaygusuz and Şen, 2011",40.55505,39.291056,P21,Granodiorite,Zircon,79.3,2.8,0.285,1.2,11
+360,U-Pb,"Kaygusuz et al., 2009 ",40.58434,39.28541,A-30,Monzogranite,Zircon,82.7,3,0.66,0.78,12
+361,U-Pb,"Kılıç et al., 2024",38.88346,39.28737,S,Skarn,Zircon,74.1,5,0.002,9.5,10
+362,U-Pb,"Köksal et al., 2004",39.29701,33.80903,BR,Quartz Monzonite,titanite,74,2.8,0.019,2.7,6
+363,U-Pb,"Köksal et al., 2004",39.35059,33.83899,CS,Quartz Syenite,titanite,74.12,0.68,0.231,1.4,5
+364,U-Pb,"Köksal et al., 2012",38.73134,33.91132,A,Biotite-Muscovite Granite,Zircon,84.05,0.96,0.32,1.16,7
+365,U-Pb,"Köksal et al., 2012",38.86436,33.76497,E,Monzonite,Zircon,73.57,0.38,0.041,1.4,45
+366,U-Pb,"Köksal et al., 2013",38.777305,34.259658,SMS,Monzonite,Zircon,74.44,0.57,0.014,1.6,35
+367,U-Pb,"Koralay et al., 2012",37.7492,27.69379,31-Jul,Orthogneiss,Zircon,552.4,13.6,0,15,15
+368,U-Pb,"Koralay et al., 2015",38.06525,27.96907,2-May,Metagranodiorite,Zircon,580,6,0.016,2.6,7
+369,U-Pb,"Koralay et al., 2015",38.06803,27.95055,371,Metagranodiorite,Zircon,550,4,0.64,0.8,12
+370,U-Pb,"Koralay et al., 2015",38.06165,27.95551,5/3/2001,Metagranodiorite,Zircon,589,14,0,6.2,8
+371,U-Pb,"Koralay et al., 2015",38.25968,28.07418,12-28 type 3,Metatonalite,Zircon,585,6,0,5.3,5
+372,U-Pb,"Koralay et al., 2015",38.25968,28.07418,12-28 overgrowth,Metatonalite,Zircon,575,4,0,5.3,9
+373,U-Pb,"Koralay et al., 2024",37.72671,28.59902,8-Jul,Amphibolite,Zircon,367.6,2.2,0.012,1.9,19
+374,U-Pb,"Kuşcu et al., 2019",40.9722,41.409497,WT13-P114,Granite Porphyry,Zircon,82.8,1.2,0.72,0.45,4
+375,U-Pb,"Kuşcu et al., 2019",41.142728,41.951127,14IK-19,Dacite Porphyry1,Zircon,85,2.1,0.002,3.2,8
+376,U-Pb,"Kuşcu et al., 2019",41.142728,41.951127,14IK-19,Dacite Porphyry2,Zircon,50.82,0.63,0.08,1.6,13
+377,U-Pb,"Kuşcu et al., 2019",40.483512,39.220755,14IK12,Andesite Porphyry,Zircon,47.06,0.42,0.95,1.6,12
+378,U-Pb,"Kuşcu et al., 2019",40.56732,40.900001,WT13-E015,Granodiorite,Zircon,42.39,0.7,0.84,0.64,16
+379,U-Pb,"Liu et al., 2018",40.70681,39.06568,14TK14,Tonalite,Zircon,90.8,0.4,0.186,1.3,17
+380,U-Pb,"Liu et al., 2018",40.68677,39.12046,14TK17,Quartz Diorite,Zircon,88.1,1.3,0.25,1.2,19
+381,U-Pb,"Liu et al., 2018",40.82501,38.92571,14TK09,Tonalite,Zircon,86.1,1,0.695,0.8,18
+382,U-Pb,"Liu et al., 2018",40.71612,39.0481,14TK13,Granodiorite,Zircon,85.5,0.6,0.267,1.2,15
+383,U-Pb,"Liu et al., 2018",40.81212,38.92787,14TK10,Granodiorite,Zircon,82.7,0.4,0.254,1.2,18
+384,U-Pb,"Liu et al., 2018",40.80108,38.93118,14TK11,Monzogranite,Zircon,78.2,0.6,0.039,1.7,17
+385,U-Pb,"Liu et al., 2018",40.58227,39.30993,14TK20,Tonalite,Zircon,81.8,0.9,0.955,0.5,18
+386,U-Pb,"Liu et al., 2018",40.55517,39.29024,14TK21,Quartz Diorite,Zircon,79.6,0.7,0.99,0.4,20
+387,U-Pb,"Liu et al., 2018",40.60753,39.28945,14TK18,Monzogranite,Zircon,79,0.4,0.687,0.8,17
+388,U-Pb,"Liu et al., 2018",40.60524,39.29728,14TK19,Monzogranite,Zircon,77.5,0.9,0.176,1.3,19
+389,U-Pb,"Liu et al., 2021",40.6867,41.1273,16TK48-2,Gabbro Dioritic Mme,Zircon,147.2,1.4,0,7.7,23
+390,U-Pb,"Liu et al., 2021",40.6338,41.1764,16TK53-2,Gabbro Diorite,Zircon,150.3,1,0,4.9,35
+391,U-Pb,"Liu et al., 2021",40.6867,41.1273,16TK48-3,Gabbro Diorite,Zircon,148.2,0.6,0.254,1.2,18
+392,U-Pb,"Liu et al., 2021",40.6317,41.1792,16TK54-2,Dioritic Dyke,Zircon,150.3,1.4,1,0.03,9
+393,U-Pb,"Liu et al., 2021",40.6718,41.1304,16TK49-1,Tonalite,Zircon,146.9,1.6,0.2,1.4,8
+394,U-Pb,"Liu et al., 2021",40.6962,41.1232,16TK47-1,Tonalite,Zircon,149,1.1,0.629,0.8,11
+395,U-Pb,"Liu et al., 2021",40.6338,41.1764,16TK53-4,Tonalite,Zircon,150.4,0.9,0.815,0.6,11
+396,U-Pb,"Liu et al., 2021",40.6317,41.1792,16TK54-1,Tonalite,Zircon,150.6,1,0.809,0.5,7
+397,U-Pb,"Liu et al., 2021",40.6566,41.1368,16TK50-1,Granodiorite,Zircon,149.6,0.8,1,0.04,9
+398,U-Pb,"Liu et al., 2021",40.6476,41.1496,16TK51-1,Granodiorite,Zircon,148,0.8,0.966,0.3,9
+399,U-Pb,"Liu et al., 2021",40.6867,41.1273,16TK48-1,Granodiorite,Zircon,147.9,2.1,0.042,2.3,6
+400,U-Pb,"Liu et al., 2021",40.6182,41.1823,16TK55-1,Granodiorite,Zircon,148.4,0.8,0.64,0.8,12
+401,U-Pb,"Liu et al., 2021",40.6338,41.1764,16TK53-1,Monzogranite,Zircon,150.3,0.7,0.986,0.3,12
+402,U-Pb,"Liu et al., 2021",40.6378,41.1728,16TK52-1,Monzogranite,Zircon,149.4,0.6,0.999,0.2,15
+403,U-Pb,"Liu et al., 2021",40.8407,41.6728,16TK32-4,Hornblende Gabbro,Zircon,176.8,2,0.849,0.4,6
+404,U-Pb,"Liu et al., 2021",40.8407,41.6728,16TK32-3,Hornblende Gabbro,Zircon,175.4,0.7,0.916,0.5,13
+405,U-Pb,"Liu et al., 2021",40.8559,41.7004,16TK33-2,Diorite,Zircon,176,1,0.753,0.7,13
+406,U-Pb,"Liu et al., 2021",40.8559,41.7004,16TK33-4,Diorite,Zircon,178.8,2.4,0.016,2.6,7
+407,U-Pb,"Liu et al., 2021",40.8407,41.6728,16TK32-1,Monzogranite,Zircon,176.3,1,0.921,0.4,9
+408,U-Pb,"Liu et al., 2021",40.8013,41.653,16TK34-1,Monzogranite,Zircon,176.5,1,0.423,1,7
+409,U-Pb,"Liu et al., 2021",40.784,41.6912,16TK35-1,Rhyolitic Dyke,Zircon,170.1,1.6,0.04,1.9,11
+410,U-Pb,"Liu et al., 2022b",41.0808,36.0808,16TK115,Tuff,Zircon,226.3,3.5,1,0.2,105
+411,U-Pb,"Natalin et al., 2016",41.94523,27.04564,KI-233.3,Pluton,Zircon,251.8,3.4,0.956,0.38,11
+412,U-Pb,"Natalin et al., 2016",41.7595,27.10793,KI-231,Dyke,Zircon,243.8,5.8,0.832,0.58,11
+413,U-Pb,"Natalin et al., 2016",41.87532,27.27105,KI-237,Dyke,Zircon,213.1,4.1,0.992,0.28,13
+414,U-Pb,"Natalin et al., 2016",41.87532,27.27105,KI-237,Dyke,Zircon,283.3,3.1,0.708,0.59,6
+415,U-Pb,"Natalin et al., 2016",41.61065,28.07721,263,Metatuff / Metavolcanics / Metagranites,Zircon,311.3,3.1,0.95,0.45,14
+416,U-Pb,"Natalin et al., 2016",41.57829,28.12672,265,Metatuff / Metavolcanics / Metagranites,Zircon,312.5,2.4,0.94,0.5,15
+417,U-Pb,"Natalin et al., 2016",41.68617,27.88442,255,Metatuff / Metavolcanics / Metagranites,Zircon,303.6,2.5,0.31,1.14,13
+418,U-Pb,"Natalin et al., 2016",41.71267,27.93774,260,Metatuff / Metavolcanics / Metagranites,Zircon,302.7,3.3,0.97,0.28,11
+419,U-Pb,"Natalin et al., 2016",41.74725,27.90611,257,Metatuff / Metavolcanics / Metagranites,Zircon,305.9,2.5,0.59,0.89,14
+420,U-Pb,"Natalin et al., 2016",41.86659,27.24118,KI-235,Gneiss,Zircon,304.9,7.9,0.63,0.24,6
+421,U-Pb,"Nurlu et al., 2018",37.05105,34.67696,P16,Plagiogranite,Zircon,94.2,4.8,0.01,3.3,5
+422,U-Pb,"Nurlu et al., 2018",37.04974,34.68163,P23,Plagiogranite,Zircon,93,2,0.186,1.5,6
+423,U-Pb,"Nurlu et al., 2022",38.40616,38.55859,T-11,Tonalite,Zircon,81.5,2.6,0.08,4.9,8
+424,U-Pb,"Nurlu et al., 2022",38.42164,38.62722,TA-5,Granodiorite,Zircon,84.27,0.9,0.04,3.3,26
+425,U-Pb,"Nurlu et al., 2023",37.55165,36.35574,AN-2,Dacite,Zircon,47.13,0.5,0.07,0.02,19
+426,U-Pb,"Nurlu, 2020a",37.81692,37.5829,G11,Granite,Zircon,87.76,0.47,0.88,0.02,6
+427,U-Pb,"Nurlu, 2020a",37.82037,37.59559,G13,Granodiorite,Zircon,85.43,0.47,0.99,6e–05,6
+428,U-Pb,"Nurlu, 2020a",37.79618,37.48346,G14,Tonalite,Zircon,80.12,0.46,0.99,0.01,8
+429,U-Pb,"Nurlu, 2020a",37.80285,37.52894,G15,Granite,Zircon,84.06,0.69,0.95,0,3
+430,U-Pb,"Nurlu, 2020a",37.81724,37.52905,G16,Gabbro,Zircon,88.29,1.29,0.99,0,3
+431,U-Pb,"Nurlu, 2020b",37.87417,37.63415,MG-1,Amphibolite,Zircon,81.45,0.69,0.7,3.2,30
+432,U-Pb,"Nurlu, 2020b",37.86818,37.61523,MG-2,Amphibolite,Zircon,85.35,0.93,0.32,1.3,11
+433,U-Pb,"Nurlu, 2021",37.00711,34.59683,MV-14,Dacite Dyke,Zircon,87.38,0.32,0.36,0.85,8
+434,U-Pb,"Nurlu, 2025",37.88695,37.72419,B,Gabbro,Zircon,81.77,1.73,0.99,5.5,5
+435,U-Pb,"Nurlu, 2025",37.88393,37.7221,C,Gabbro,Zircon,79.67,1.17,0.99,9.3,8
+436,U-Pb,"Oberhansli et al., 2010",38.31034,27.86608,362 a,Metagabbro,Apatite,540.4,3.5,0.45,0.58,2
+437,U-Pb,"Oberhansli et al., 2010",38.30957,27.86629,361 b,Metagabbro,Apatite,529.9,2.2,0.004,8.2,2
+438,U-Pb,"Oberhansli et al., 2013",38.26945,42.47008,B-157-1,Eclogite,Zircon,82.4,1.8,0.58,0.31,16
+439,U-Pb,"Oberhansli et al., 2013",38.26945,42.47008,B-157-2,Eclogite,Zircon,84.4,1.8,0.14,2.2,14
+440,U-Pb,"Okay et al., 2006",39.9401,29.36664,5981,Granodiorite,Zircon,44.99,0.23,0.739,0.42,4
+441,U-Pb,"Okay et al., 2008",40.46776,28.98872,A1-1,Metagranitoid,Apatite,585,3.5,0.55,0.35,4
+442,U-Pb,"Okay et al., 2008",40.46776,28.98872,A1-2,Metagranitoid,Apatite,569.9,2.9,0.41,0.67,4
+443,U-Pb,"Okay et al., 2008",40.46863,28.99251,A2-1,Metagranitoid,Apatite,585.1,3.3,0.003,8.9,8
+444,U-Pb,"Okay et al., 2008",40.46863,28.99251,A2-2,Metagranitoid,Apatite,569.4,2,0.83,0.83,7
+445,U-Pb,"Okay et al., 2017",41.26517,28.21538,1569,Acidic Tuff,Zircon,32.3,1.8,0,8.6,4
+446,U-Pb,"Okay et al., 2017",41.13253,28.08914,1556,Acidic Tuff,Zircon,32.27,0.16,0.19,1.2,24
+447,U-Pb,"Okay et al., 2017",41.32139,28.09016,1560,Acidic Tuff,Zircon,31.74,0.17,0.001,2,31
+448,U-Pb,"Okay et al., 2017",41.26286,28.2117,1456,Acidic Tuff,Zircon,27.9,0.1,0.32,1.09,32
+449,U-Pb,"Okay et al., 2017",41.26809,28.1037,1586,Acidic Tuff,Zircon,31.05,0.14,0.007,1.7,37
+450,U-Pb,"Okay et al., 2019",39.87235,32.63996,9648,Tuff,Zircon,76.21,0.58,0.013,1.5,51
+451,U-Pb,"Okay et al., 2019",39.86516,32.63414,9824,Tuff,Zircon,76.26,0.29,0.217,1.12,81
+452,U-Pb,"Okay et al., 2019",39.97671,32.07773,8823,Granite,Zircon,73.73,0.34,0.41,1.04,33
+453,U-Pb,"Okay et al., 2019",40.02688,32.03503,9456,Granite,Zircon,74.74,0.29,0.97,0.62,39
+454,U-Pb,"Okay et al., 2020b",41.73314,28.03073,1071,Tuff,Zircon,33.91,0.41,0.797,0.75,24
+455,U-Pb,"Okay et al., 2020c",39.92831,32.03106,8674,Gabbro,Zircon,274,2.3,0.29,1.19,12
+456,U-Pb,"Okay et al., 2020c",40.21805,31.73271,8773,Gabbro,Zircon,176.3,4.1,0,1.5,14
+457,U-Pb,"Okay et al., 2020c",39.91774,31.95647,9022,Granite,Zircon,74.61,0.42,0,2.4,40
+458,U-Pb,"Okay et al., 2020c",39.9418,32.07863,10098,Granite,Zircon,74.82,0.33,0,2,56
+459,U-Pb,"Okay et al., 2020c",39.90774,32.04414,10171,Granite,Zircon,74.53,0.49,0,3.7,44
+460,U-Pb,"Okay et al., 2022",39.62584,31.01661,9431,Granite ,Zircon,45.3,0.2,0.61,0.92,34
+461,U-Pb,"Okay et al., 2022",39.47577,31.91824,8876,Granite ,Zircon,57.6,0.8,0.2,0.9,17
+462,U-Pb,"Okay et al., 2022",39.91774,31.95647,9384,Granite ,Zircon,56.6,0.4,0,0.58,24
+463,U-Pb,"Okay et al., 2022",39.50669,31.87163,9404,Granite ,Zircon,55.3,0.3,0.068,0.63,46
+464,U-Pb,"Okay et al., 2022",39.92831,32.03106,9413,Granite ,Zircon,54.7,3.1,0,2.5,36
+465,U-Pb,"Okay et al., 2022",39.57753,31.63722,9429,Granite ,Zircon,55.3,1.2,0.91,0.39,11
+466,U-Pb,"Okay et al., 2022",39.47423,31.92666,10372,Granitic Dyke,Zircon,56.6,0.6,0.12,2.1,17
+467,U-Pb,"Okay et al., 2022",39.9418,32.07863,10048,Dacite Clast,Zircon,45.7,0.4,0,0.36,24
+468,U-Pb,"Okay et al., 2022",40.47947,29.14599,12410,Granite ,Zircon,48,0.4,0.044,1.3,19
+469,U-Pb,"Okay et al., 2022",40.4956,29.02766,12422,Granite ,Zircon,48,0.5,0.011,1.06,28
+470,U-Pb,"Okay et al., 2022",40.65823,29.50171,14396,Tuff,Zircon,48,0.7,0.022,0.91,22
+471,U-Pb,"Okay et al., 2023",40.67538,31.46494,11552,Granitic Vein,Zircon,45.79,0.37,0.92,0.64,24
+472,U-Pb,"Okay et al., 2023",40.67134,31.47278,15912,Amphibolite,Zircon,155.5,2.1,0.037,0.93,8
+473,U-Pb,"Okay et al., 2023",40.69904,31.51543,11544,Metadioritic Vein,Zircon,162.6,1.6,0.13,0.28,7
+474,U-Pb,"Okay et al., 2023",40.67549,31.46487,15915,Amphibolite,Zircon,253.8,7.6,0,1.4,8
+475,U-Pb,"Okay et al., 2023",40.67945,31.46011,11609,Granitic Vein,Zircon,256.7,3.7,0,3.8,21
+476,U-Pb,"Okay et al., 2023",40.74252,31.5398,11625,Granitic Vein,Zircon,293.8,2,0.002,1.5,23
+477,U-Pb,"Okay et al., 2023",40.6824,31.46512,15913,Granitic Gneiss,Zircon,552,11,0,6.9,17
+478,U-Pb,"Okay et al., 2023",40.70653,31.51671,11622,Granitic Gneiss,Zircon,561.7,3.8,0.518,0.94,16
+479,U-Pb,"Özbey et al., 2013",39.67425,28.43114,2292,Metagranite,Zircon,445.8,16,0.45,0.57,5
+480,U-Pb,"Özbey et al., 2022",40.65034,29.72999,ZO-8,Metagabbro,Zircon,564,8.8,0.35,0.86,26
+481,U-Pb,"Özbey et al., 2022",40.63542,29.69162,ZO-2,Metagabbro,Zircon,561,19,0.32,0.98,30
+482,U-Pb,"Özdamar et al., 2018",39.48113,31.49006,So:12,Microgranodiorite,Zircon,50.52,0.66,0.86,0.03,38
+483,U-Pb,"Özdamar et al., 2024",40.40369,27.22909,5,Granite,Zircon,47.06,0.32,0.01,6.6,11
+484,U-Pb,"Özdamar et al., 2024",40.42704,27.25646,9,Granite,Zircon,48.27,0.21,0,15,24
+485,U-Pb,"Özdamar, 2016",40.75923,37.90568,A,Rhyodacite,Zircon,81.29,1,0.78,0.08,8
+486,U-Pb,"Özdamar, 2016",40.75923,37.90568,B,Rhyodacite,Zircon,84.32,0.96,0.61,0.26,7
+487,U-Pb,"Özturk et al., 2020",39.79242,26.4055,13-15,Monzodiorite-Granodiorite,Zircon,22.43,0.26,0.014,1.8,22
+488,U-Pb,"Özturk et al., 2020",39.77688,26.40937,13-16,Monzodiorite-Granodiorite,Zircon,22.1,0.25,0.029,1.6,26
+489,U-Pb,"Özturk et al., 2020",39.76772,26.44014,13-17,Granodiorite Porphyry,Zircon,22.41,0.25,0.024,1.7,22
+490,U-Pb,"Özturk et al., 2020",39.74676,26.44579,13-19,Monzodiorite-Granodiorite,Zircon,22.02,0.24,0.011,1.7,30
+491,U-Pb,"Özturk et al., 2020",39.81295,26.47494,13-30,Andesite-Trachyandesite,Zircon,21.93,0.27,0.022,1.8,18
+492,U-Pb,"Özturk et al., 2020",39.80601,26.47195,13-31,Rhyodacite-Dacite,Zircon,22.11,0.22,0.088,1.4,26
+493,U-Pb,"Özturk et al., 2020",39.80748,26.5022,13-35,Andesite-Trachyandesite,Zircon,21.72,0.24,0.072,1.4,31
+494,U-Pb,"Özturk et al., 2020",39.72317,26.44341,13-41A,Andesite-Trachyandesite,Zircon,21.71,0.22,0.1,1.4,23
+495,U-Pb,"Özturk et al., 2023",37.03301,27.25607,2312A,Monzonite,Zircon,8.66,0.08,0.71,0.14,17
+496,U-Pb,"Özturk et al., 2023",37.03301,27.25607,2312B,Monzonite,Zircon,9.55,0.3,0.056,3.7,17
+497,U-Pb,"Parlak et al., 2013",36.90573,34.38772,FK57,Gabbro,Zircon,82.8,4,0.14,2.1,5
+498,U-Pb,"Parlak et al., 2013",38.66491,36.46591,FK58,Dyke,Zircon,65.4,3.2,0.1,2.7,4
+499,U-Pb,"Parlak et al., 2013",39.41562,37.97611,FK59,Gabbro,Zircon,88.8,2.5,0,13,4
+500,U-Pb,"Parlak et al., 2013",39.34518,38.03319,FK60,Granite,Zircon,70.4,1.5,0.21,1.6,4
+501,U-Pb,"Parlak et al., 2013",39.329,38.06447,FK61,Granite,Zircon,67.7,1.4,0.3,1.1,5
+502,U-Pb,"Parlak et al., 2013",37.48126,34.77824,FK66,Granite,Zircon,49.1,1,0.28,1.16,6
+503,U-Pb,"Parlak et al., 2013",37.48022,34.77508,FK67,Granite,Zircon,50.6,2.4,0.11,2.5,2
+504,U-Pb,"Parlak et al., 2013",37.55266,35.36999,FK69,Gabbro,Zircon,69.1,2.1,0.19,1.7,3
+505,U-Pb,"Parlak et al., 2019",37.44844,31.52709,G14-1,Metamorphic Sole,Zircon,89.74,0.87,0.997,0.26,15
+506,U-Pb,"Parlak et al., 2019",37.44844,31.52709,G14-1,Metamorphic Sole,Titanite,92.8,6,0.024,2,12
+507,U-Pb,"Parlak et al., 2019",37.44534,31.54105,G14-2,Isolated Dyke,Titanite,102.3,7.4,0.955,0.26,7
+508,U-Pb,"Parlak et al., 2019",37.44222,31.55128,G14-3,Isolated Dyke,Titanite,94.9,5.6,0.989,0.34,15
+509,U-Pb,"Parlak et al., 2019",37.44438,31.53521,G14-5,Isolated Dyke,Zircon,90.8,1.6,0.308,1.19,7
+510,U-Pb,"Parlak et al., 2019",37.44438,31.53521,G14-5,Isolated Dyke,Titanite,87.5,7.9,0.004,3.2,7
+511,U-Pb,"Parlak et al., 2019",37.4525,31.52423,G15-3,Metamorphic Sole,Titanite,94,4.8,0.033,1.8,15
+512,U-Pb,"Parlak et al., 2019",37.45632,31.5371,G15-4,Metamorphic Sole,Zircon,90.81,0.73,0,8.6,12
+513,U-Pb,"Parlak et al., 2019",37.45632,31.5371,G15-4,Metamorphic Sole,Titanite,91,6,0.084,1.5,18
+514,U-Pb,"Parlak et al., 2019",38.18993,31.10864,S14-1,Metamorphic Sole,Titanite,91.2,3.9,0.004,2.4,13
+515,U-Pb,"Parlak et al., 2019",38.0498,31.36318,S14-2,Isolated Dyke,Zircon,87.6,2.1,0.691,0.75,12
+516,U-Pb,"Parlak et al., 2019",38.0498,31.36318,S14-2,Isolated Dyke,Titanite,88.6,6.1,0.032,2.3,7
+517,U-Pb,"Parlak et al., 2019",38.05,31.36484,S14-3,Metamorphic Sole,Zircon,91.1,2.1,0,4.8,16
+518,U-Pb,"Parlak et al., 2019",38.05,31.36484,S14-3,Metamorphic Sole,Titanite,92.5,4.9,0.014,2.5,8
+519,U-Pb,"Parlak et al., 2019",38.04801,31.40127,S14-4,Metamorphic Sole,Zircon,89.8,1.2,0,4.9,22
+520,U-Pb,"Parlak et al., 2019",38.04801,31.40127,S14-4,Metamorphic Sole,Titanite,90,9.4,0,2.5,24
+521,U-Pb,"Parlak et al., 2019",38.04724,31.42367,S14-5,Metamorphic Sole,Zircon,88.85,0.98,1,0.12,15
+522,U-Pb,"Parlak et al., 2019",38.04724,31.42367,S14-5,Metamorphic Sole,Titanite,92.9,5.9,0,2.3,35
+523,U-Pb,"Rabayrol et al., 2019",39.0165,29.3229,FR-15-18,Monzonite,Zircon,17.86,0.18,0.043,1.6,21
+524,U-Pb,"Rabayrol et al., 2019",38.5013,30.3382,FR-14-49,Monzonite,Zircon,11.64,0.2,0.478,0.98,18
+525,U-Pb,"Rabayrol et al., 2019",37.031,27.258,FR-15-31,Monzonite,Zircon,9.76,0.05,0.678,0.82,19
+526,U-Pb,"Rabayrol et al., 2019",37.7509,32.0754,FR-13-181,Biotite Andesite,Zircon,8.67,0.13,0.044,1.7,16
+527,U-Pb,"Rabayrol et al., 2019",37.823,31.946,FR-14-73,Two-Pyroxene Andesite,Zircon,10.21,0.13,0.861,0.62,16
+528,U-Pb,"Rabayrol et al., 2019",38.2209,27.063,FR-15-36,Clinopyroxene Andesite,Zircon,3.62,0.06,0.246,1.2,20
+529,U-Pb,"Rabayrol et al., 2019",38.5904,28.5755,FR-15-40,Clinopyroxene Andesite,Zircon,7.92,0.14,0.579,0.9,19
+530,U-Pb,"Rabayrol et al., 2019",38.2891,35.5121,FR-13-254,Two-Pyroxene Andesite,Zircon,5.34,0.21,0.587,0.88,16
+531,U-Pb,"Rabayrol et al., 2019",39.0081,37.8231,FR-14-82,Clinopyroxene Andesite,Zircon,21.23,0.33,0.9,0.63,22
+532,U-Pb,"Rabayrol et al., 2019",39.599,43.2638,FR-14-129,Monzonite,Zircon,21.36,0.37,0.071,1.6,15
+533,U-Pb,"Rabayrol et al., 2019",39.2797,43.4694,FR-14-142,Monzonite,Zircon,17.38,0.36,0.94,0.49,15
+534,U-Pb,"Rabayrol et al., 2019",39.569,43.4349,FR-14-124,Granite,Zircon,19.84,0.19,0.48,0.98,19
+535,U-Pb,"Revan et al., 2017",41.12345,41.11971,TD-M216a,Dacitic Tuff Breccia,Zircon,88.1,2.4,0.15,2.1,15
+536,U-Pb,"Revan et al., 2017",41.12614,41.12993,TD-M216b,Intrusive Dacite,Zircon,41.3,1.06,0.36,0.84,7
+537,U-Pb,"Ring and Collins, 2005",39.23006,29.02472,MM99-28a,Granite,Zircon,21.5,0.7,0.225,1.31,10
+538,U-Pb,"Ring and Collins, 2005",39.09242,29.06144,Eğrigöz,Granite Cores,Zircon,578,21,0.664,0.41,3
+539,U-Pb,"Ring and Collins, 2005",39.23417,28.94198,THT-19&THT-20,Granite,Zircon,19.9,3.1,0.361,1.02,3
+540,U-Pb,"Ring and Collins, 2005",39.08168,28.98874,THT-5,Leucogranite Dyke,Zircon,24.4,0.3,0.174,1.5,7
+541,U-Pb,"Robertson et al., 2013",40.10471,42.10678,EZ-11-62,Gabbro Cumulates,Zircon,178.4,1.8,0.904,0.26,5
+542,U-Pb,"Robertson et al., 2013",40.47006,42.33958,EZ-11-80,Tonalite,Zircon,182.6,3.2,0.518,0.81,5
+543,U-Pb,"Robertson et al., 2013",40.04022,40.47699,EZ-11-59,Gabbro Cumulate,Zircon,186.5,1.8,0.715,0.62,7
+544,U-Pb,"Robertson et al., 2013",40.48006,42.33958,EZ-11-79,Tonalite,Zircon,185.6,3.9,0.035,2.4,6
+545,U-Pb,"Robertson et al., 2013",40.44742,41.84369,EZ-11-24,Gabbro Cumulate,Zircon,179.9,1.7,0.662,0.65,6
+546,U-Pb,"Robertson et al., 2013",39.87302,38.72668,EZ-11-179,Plagiogranite,Zircon,184,2,0.422,0.97,5
+547,U-Pb,"Şahin et al., 2012",41.07648,29.13236,ÇG-4,Granodiorite,Zircon,67.91,0.63,0.38,1.07,14
+548,U-Pb,"Şahin et al., 2012",41.08648,29.13236,ÇG-16,Granodiorite,Zircon,67.59,0.55,0.77,0.72,16
+549,U-Pb,"Şahin et al., 2014a",41.14839,28.43658,ÇT-11,Granitoid,Zircon,534.5,4.7,0.98,0.27,21
+550,U-Pb,"Şahin et al., 2014a",41.13839,28.43658,ÇT-29,Granitoid,Zircon,546,3.9,0.98,0.27,25
+551,U-Pb,"Şahin et al., 2014a",41.32223,28.36103,IMG-1,Granitoid,Zircon,538.8,4.6,0.23,1.4,20
+552,U-Pb,"Şahin et al., 2024",41.56124,27.8127,-,Pluton,Zircon,522.1,2.6,0.15,2.1,24
+553,U-Pb,"Şahin et al., 2024",41.56124,27.8127,-,Pluton,Zircon,520.7,3.1,0.63,0.23,21
+554,U-Pb,"Saka et. al., 2023",40.88681,39.01143,F1a Gg31,Rhyodacite,Zircon,88.23,0.37,1,0.01,17
+555,U-Pb,"Saka et. al., 2023",40.85591,39.08384,F1b Gg20a,Rhyodacite,Zircon,85.4,0.23,1,0.23,18
+556,U-Pb,"Saka et. al., 2023",40.99488,38.85666,F2a Gh8a,Rhyolite,Zircon,82.19,0.29,1,0,12
+557,U-Pb,"Saka et. al., 2023",40.99488,38.85666,F2b Gh17b,Rhyolite,Zircon,83.23,0.21,1,0.04,19
+558,U-Pb,"Saka et. al., 2023",40.98442,38.86597,F2b Gh16b,Rhyolite,Zircon,80.96,0.29,1,0.04,17
+559,U-Pb,"Şans et al., 2022",41.89521,26.77813,A,Serpentinite,Zircon,316.6,5,0.29,1.12,17
+560,U-Pb,"Şans et al., 2022",41.89521,26.77813,B,Serpentinite,Zircon,360.2,4.4,0.6,0.27,11
+561,U-Pb,"Sapancı et al., 2023",38.62867,39.62001,36410,Plagiogranite,Zircon,79.8,0.8,0.77,0.09,4
+562,U-Pb,"Sapancı et al., 2023",38.49839,39.56063,36415,Gabbro,Zircon,82,2.9,0.8,0.06,2
+563,U-Pb,"Sar et al., 2024",41.25998,41.15384,AT44,Rhyolite,Zircon,83.43,0.87,0.92,0.6,21
+564,U-Pb,"Sayıt et al., 2026",38.912431,38.710375,CK-1a,Basalt,Zircon,78.8,1.1,0.03,2.2,8
+565,U-Pb,"Sayıt et al., 2026",38.853558,38.646528,HM-2,Basalt,Zircon,78.9,0.7,0,4.9,15
+566,U-Pb,"Sayıt et al., 2026",38.929464,38.710367,CK-2,Basaltic Andesite,Zircon,79.3,1.3,0,6.8,11
+567,U-Pb,"Sayıt et al., 2026",38.792258,38.577089,AD-2b,Granodiorite,Zircon,80,0.8,0.004,2.3,15
+568,U-Pb,"Sayıt et al., 2026",38.843769,38.630231,HM-1b,Granodiorite,Zircon,79.7,3.2,0,6.7,5
+569,U-Pb,"Şen., 2020",40.88028,29.06354,FS-Brg-2,Rhyolite,Zircon,45.66,0.84,0.15,2,21
+570,U-Pb,"Şengün and Koralay, 2017",39.95338,26.52491,Aug-50,Metavolcanic,Zircon,333.5,5.4,0.448,1,14
+571,U-Pb,"Şengün and Koralay, 2017",39.95286,26.55449,Aug-51,Metavolcanic,Zircon,334,9.6,0.151,1.5,9
+572,U-Pb,"Şengün et al., 2020",40.18818,27.50086,1805,Granitoid,Zircon,336.3,5.8,0.82,0.05,12
+573,U-Pb,"Sönmez et al., 2024",41.346522,42.111573,Y-25,Quartz-Bearing Trachytic Dyke,Zircon,29.2,0.3,0.014,2.1,13
+574,U-Pb,"Sönmez et al., 2024",41.31609,42.121317,Y-62,Trachyandesite/Andesite Dyke,Zircon,29.7,0.3,0.82,0.49,7
+575,U-Pb,"Sönmez et al., 2024",41.345622,42.104904,Y-21,Trachyandesite/Andesite Dyke,Zircon,31.1,0.2,0.001,2.5,16
+576,U-Pb,"Sönmez et al., 2024",41.345848,42.105264,Y-22,Trachyandesite/Andesite Dyke,Zircon,31,0.2,0.03,1.7,19
+577,U-Pb,"Sunal et al., 2019",40.33244,28.47536,KG29,Granodiorite Porphyry,Zircon,50.9,1.2,0.98,0.46,21
+578,U-Pb,"Sünger et al., 2022",37.4788,34.77523,HG-1,Granite Porphyry,Zircon,54.74,0.37,0.99,0,9
+579,U-Pb,"Toksoy-Köksal., 2019",38.634027,34.121928,EK18,Granodiorite,Zircon,84.52,0.93,0.24,1.3,12
+580,U-Pb,"Toksoy-Köksal., 2019",38.671058,33.999091,EK4,Microgranite,Zircon,80.7,1.6,0.043,2.1,8
+581,U-Pb,"Topak, 2022",37.92237,37.83154,YSF-AFT1,Granitoid,Zircon,79.67,0.48,0.62,0.24,17
+582,U-Pb,"Topuz et al., 2010",40.41804,39.54429,7,Pluton,Zircon,319,5,0.61,0.26,23
+583,U-Pb,"Topuz et al., 2010",40.31279,39.32731,28,Pluton,Zircon,329,6,0.38,0.77,13
+584,U-Pb,"Topuz et al., 2011",40.02804,38.83027,-,Leucogranodiorite,Zircon,51.1,1,0.674,0.72,9
+585,U-Pb,"Topuz et al., 2018",40.177,29.495,9219,Metagabbro,Zircon,262,5,0.485,0.98,22
+586,U-Pb,"Topuz et al., 2018",40.237,29.714,9230,Metagabbro,Zircon,264,3,0.995,0.26,13
+587,U-Pb,"Topuz et al., 2018",40.224,29.665,9233,Metagabbro,Zircon,258,5,0.218,1.2,28
+588,U-Pb,"Topuz et al., 2020",40.14544,31.1883,54A,Amphibolite,Zircon,418.75,6.5,0.889,0.48,10
+589,U-Pb,"Topuz et al., 2020",40.12899,31.05642,188A,Amphibolite,Zircon,434.05,6.81,0.71,0.7,10
+590,U-Pb,"Topuz et al., 2020",40.15582,31.07263,138A,Biotite-Metagranite,Zircon,434.52,9.4,0.261,1.3,6
+591,U-Pb,"Topuz et al., 2020",40.18384,31.08448,161A,Two-Mica Metagranite,Zircon,378.8,10.2,0.186,1.5,6
+592,U-Pb,"Topuz et al., 2020",40.0048,30.71108,10082,Hornblende-Biotite Metatonalite,Zircon,404.9,1.51,0,2.5,32
+593,U-Pb,"Topuz et al., 2020",40.12899,31.05642,188B,Felsic Dyke,Zircon,313.83,5.67,0.623,0.7,6
+594,U-Pb,"Topuz et al., 2023",40.12326,39.86,657,Gabbronorite,Zircon,322.6,2.5,1,0.23,21
+595,U-Pb,"Topuz et al., 2023",40.11842,39.85772,674,Anorthosite,Zircon,325.9,1.4,0,2.8,17
+596,U-Pb,"Tükel et al., 2024",38.19606,26.80735,Quarry-1,Marble,calcite,73.3,11,1,0.2,27
+597,U-Pb,"Tükel et al., 2025",38.13919,35.35059,KVS-42,Pluton,Zircon,51.8,0.32,0.41,0.67,15
+598,U-Pb,"Tükel et al., 2025",38.11323,35.31645,KVS-120,Pluton,Zircon,52.93,0.35,0.047,4,23
+599,U-Pb,"Tükel et al., 2025",38.12925,35.26133,KVS-332,Pluton,Zircon,53.66,0.3,0,25,25
+600,U-Pb,"Tükel et al., 2025",38.15379,35.31754,KVS-S1,Pluton,Zircon,52.37,0.41,0,96,24
+601,U-Pb,"Tunç, 2024",39.79286,26.65908,2202,Diabase,Zircon,165.81,1.55,0.05,3.8,33
+602,U-Pb,"Uğurcan and Ustaömer, 2025",40.04063,30.48136,GCAMİ 11,Metagranite,Zircon,503,12,0.976,0.44,18
+603,U-Pb,"Uğurcan and Ustaömer, 2025",40.02238,30.53147,BeTi 16/6,Metagranite,Zircon,488.7,2.6,0.091,1.6,12
+604,U-Pb,"Uğurcan and Ustaömer, 2025",40.07574,30.48558,Gca 16/1,Meta-Syenite,Zircon,471.4,2.5,0.832,0.74,28
+605,U-Pb,"Uğurcan and Ustaömer, 2025",40.04298,30.46271,BeTi 16/1,Meta-Syenite,Zircon,473.9,5.7,0.04,1.9,11
+606,U-Pb,"Ülgen et al., 2022",41.09681,29.15408,-,Pluton,Zircon,67.24,0.32,0.37,0.8,45
+607,U-Pb,"Ural et al., 2021",38.63168,39.60062,6,Granodiorite,Zircon,84,5.4,0.078,1.4,29
+608,U-Pb,"Ural et al., 2021",38.72048,39.23503,7,Granodiorite,Zircon,79.6,3.4,0.939,0.64,32
+609,U-Pb,"Ural et al., 2021",38.72186,39.22174,10,Rhyodacite,Zircon,87.8,5.6,0.046,1.5,28
+610,U-Pb,"Ural et al., 2021",38.45735,38.69601,17,Andesite,Zircon,82,8.6,0.055,1.9,9
+611,U-Pb,"Ustaömer et al., 2005",40.67995,31.79019,99-3B,Pluton,Zircon,565.3,1.9,0.199,1.5,5
+612,U-Pb,"Ustaömer et al., 2005",40.67995,31.79019,99-5,Pluton,Zircon,576,6,0.156,1.6,6
+613,U-Pb,"Ustaömer et al., 2009a",38.42587,42.02041,BIT-57,Granitic Dyke,Zircon,531.4,3.6,0.671,0.77,12
+614,U-Pb,"Ustaömer et al., 2009a",38.35967,42.05754,BIT-67,Granite,Zircon,545.5,6.1,0.191,1.4,9
+615,U-Pb,"Ustaömer et al., 2009b",40.628,27.62333,M1Q1,Tonalite,Zircon,47.6,0.4,0.43,0.99,7
+616,U-Pb,"Ustaömer et al., 2012a",40.67755,41.03721,CN 36,Granite,Zircon,330.4,4.2,0.348,1.1,4
+617,U-Pb,"Ustaömer et al., 2012a",40.66856,41.03279,CN 39,Dyke,Zircon,156.3,2,0.06,1.6,17
+618,U-Pb,"Ustaömer et al., 2012a",40.882,41.71552,DEM 1,Granitic Vein,Zircon,325.4,2.8,0.055,1.6,18
+619,U-Pb,"Ustaömer et al., 2012a",40.99194,41.72919,Narlık Granite,Granite,Zircon,330,19,0.923,0.52,15
+620,U-Pb,"Ustaömer et al., 2012a",41.00025,41.72112,Karadağ paragneiss,Metagranitic Intrusion,Zircon,357.7,4.8,0.532,0.88,9
+621,U-Pb,"Ustaömer et al., 2012a",40.79644,41.56214,S 14,Granite,Zircon,179.8,1,0.23,1.4,6
+622,U-Pb,"Ustaömer et al., 2012b",38.31365,42.19539,BİT 23,Metagranite,Zircon,572,4.8,0.323,1.15,10
+623,U-Pb,"Ustaömer et al., 2012b",38.31365,42.19539,BİT 23,Metagranite,Zircon,529.1,5.3,0.516,0.76,4
+624,U-Pb,"Ustaömer et al., 2012b",38.31891,42.18475,BİT 33,Paragneiss,Zircon,621,40,0.074,1.7,11
+625,U-Pb,"Ustaömer et al., 2012c",40.04417,30.23236,Borçak,Metagranitoid,Zircon,319.5,2.2,0.66,0.2,14
+626,U-Pb,"Ustaömer et al., 2012c",40.09694,30.00495,Küplü,Metagranitoid,Zircon,324.3,3,0.75,0.11,8
+627,U-Pb,"Ustaömer et al., 2012c",40.04774,30.2391,Çaltı,Metagranitoid,Zircon,327.2,3.8,0.14,2.2,5
+628,U-Pb,"van Hinsbergen et al., 2016",38.776879,34.201956,K27099J,Plagiogranite,Zircon,90.56,0.14,0.55,0.6,3
+629,U-Pb,"van Hinsbergen et al., 2016",38.783,34.219807,K27099C,Plagiogranite,Zircon,89.29,0.4,0.001,5.2,4
+630,U-Pb,"van Hinsbergen et al., 2016",38.800904,34.656148,H26099c,Granite,Titanite,77.22,0.53,0.65,0.43,3
+631,U-Pb,"Whitney and Hamilton., 2004",39.329122,33.688326,KM94-5,Migmatitic Gneiss,Monazite,84.1,0.8,0.9,0.5,17
+632,U-Pb,"Whitney et al., 2003",37.986394,34.782656,ND95-22c,Sillimanite Schist,Monazite,84.7,0.7,0.91,0.6,20
+633,U-Pb,"Whitney et al., 2003",37.97905,34.790663,ND98-2,Sillimanite Schist,Zircon,91,2,0.88,0.7,30
+634,U-Pb,"Yapıcı et al., 2025",37.48497,35.79381,-,Granodiorite Porphyry,Zircon,642.22,1.75,0.35,0.86,8
+635,U-Pb,"Yaşar et al., 2024",40.078287,30.512015,SM16,Orthogneiss,Zircon,318.2,2.4,0,3.8,9
+636,U-Pb,"Yaşar et al., 2024",40.048496,30.450734,SM23,Orthogneiss,Zircon,484.5,2.9,0.182,1.4,10
+637,U-Pb,"Yaşar et al., 2024",40.072922,30.484666,SM26,Orthogneiss,Zircon,452,3,0.999,0.32,22
+638,U-Pb,"Yaşar et al., 2024",40.076674,30.619048,SM6,Amphibolite,Zircon,335.9,1.5,0,14,48
+639,U-Pb,"Yaşar et al., 2024",40.063412,30.570385,SM12,Amphibolite,Zircon,334,2.1,0,8.3,24
+640,U-Pb,"Yaşar et al., 2024",40.079374,30.514412,SM19,Amphibolite,Zircon,327.4,0.7,0.143,1.4,15
+641,U-Pb,"Yaşar et al., 2024",40.076061,30.518816,SM20,Amphibolite,Zircon,328.5,1.2,0,5.2,31
+642,U-Pb,"Yaşar et al., 2024",40.044036,30.467468,SM21,Amphibolite,Zircon,465.4,1.5,0,7.6,42
+643,U-Pb,"Yaşar et al., 2024",40.052674,30.57367,SM29,Amphibolite,Zircon,459.8,2.3,0,7.1,16
+644,U-Pb,"Yaşar et al., 2024",40.065463,30.570046,SG3,Granitoid,Zircon,319.1,1.9,0.199,1.2,34
+645,U-Pb,"Yaşar et al., 2024",40.067645,30.566345,SG9,Granitoid,Zircon,317.6,1.3,0.944,0.68,43
+646,U-Pb,"Yaşar et al., 2024",40.07485,30.493202,SG10,Granitoid,Zircon,316.9,1.2,0.905,0.76,56
+647,U-Pb,"Yılmaz et al., 2021",41.43969,28.15806,ÇT-11,Monzogranite,Zircon,547.3,2.8,0.23,5.8,23
+648,U-Pb,"Yılmaz et al., 2021",41.43053,28.22442,ÇT-29,Granodiorite,Zircon,543.57,2.92,0.01,6.3,20
+649,U-Pb,"Yılmaz et al., 2021",41.45513,28.07411,IMG-1,Granodiorite,Zircon,538.8,9.2,0.23,1.4,24
+650,U-Pb,"Yılmaz et al., 2021",41.15644,28.41624,IM-3,Granodiorite,Zircon,534.8,5,0.19,1.7,20
+651,U-Pb,"Yılmaz et al., 2021",41.46156,28.17662,BK-1,Monzogranite,Zircon,540.2,5,0.21,1.6,19
+652,U-Pb,"Yılmaz et al., 2021",41.46156,28.17662,CS-5,Quartz Monzonite,Zircon,525.3,7,0.012,6.4,19
+653,U-Pb,"Yılmaz et al., 2021",41.27951,28.37474,CS-48,Monzogranite,Zircon,548.7,4.6,0.87,0.03,22
+654,U-Pb,"Yılmaz et al., 2021",41.17287,28.4121,SF-1,Monzogranite,Zircon,534,5.2,0.3,1.09,20
+655,U-Pb,"Yılmaz et al., 2021",41.48888,28.10138,SF-2,Monzogranite,Zircon,543.3,5.6,0.21,1.6,20
+656,U-Pb,"Yılmazer et al., 2024",41.0885,32.02159,45,Biotite-Hornblende Tonalite,Zircon,561.8,6.9,0.929,0.57,20
+657,U-Pb,"Yılmazer et al., 2024",40.99856,31.98027,72B,Biotite-Hornblende Tonalite,Zircon,570.2,7.5,0.521,0.88,8
+658,U-Pb,"Yılmazer et al., 2024",41.05035,32.07468,115,Biotite Tonalite,Zircon,565.8,5.1,0.336,1.12,14
+659,U-Pb,"Yılmazer et al., 2024",41.09217,31.95134,13047,Granodiorite,Zircon,573.9,8.4,0.691,0.75,12
+660,U-Pb,"Yılmazer et al., 2024",41.10951,31.92313,228,Biotite Tonalite,Zircon,548,24,0,2.3,24
+661,U-Pb,"Yılmazer et al., 2025",40.48768,30.93694,637,Biotite Gneiss,Zircon,558,27,0.112,2,4
+662,U-Pb,"Yılmazer et al., 2025",40.48663,30.93756,640,Two-Mica Gneiss,Zircon,594.9,5.1,0.012,2.2,12
+663,FT,"Albino et al., 2014",39.60283,43.49623,TU264,Granite,Apatite,26,5.4,1,,15
+664,FT,"Albino et al., 2014",40.58254,41.14062,TU275,Granite,Apatite,12.2,5.4,0.802,,20
+665,FT,"Albino et al., 2014",40.46418,40.94928,TU276,Granite,Apatite,20.7,5.8,0.984,,15
+666,FT,"Ballato et al., 2018",41.62327,33.5923,DVK-03,Granodiorite,Apatite,106.7,10.2,0.827,,20
+667,FT,"Ballato et al., 2018",41.8237,33.6367,KUR-01 ,Granodiorite,Apatite,70.6,8.8,0.056,,27
+668,FT,"Ballato et al., 2018",41.83753,33.64623,KUR-11,Granodiorite,Apatite,64.5,15,0.195,,18
+669,FT,"Ballato et al., 2018",41.83305,33.6527,KUR-04 ,Granodiorite,Apatite,46.6,4.4,0,,25
+670,FT,"Ballato et al., 2018",41.84002,33.63283,KUR-08,Granite,Apatite,34.8,3.8,0.538,,21
+671,FT,"Ballato et al., 2018",41.83668,34.08795,RTZ-03,Granodiorite,Apatite,30.2,3.2,0.073,,20
+672,FT,"Ballato et al., 2018",41.83675,34.10001,RTZ-01 ,Granodiorite,Apatite,27.4,3.4,0.121,,20
+673,FT,"Ballato et al., 2018",41.90932,33.95225,SEL-05,Granite,Apatite,35.2,3.6,0.104,,25
+674,FT,"Ballato et al., 2018",41.8857,33.9281,SEL-02,Pegmatite,Apatite,28.5,5.4,0.095,,23
+675,FT,"Ballato et al., 2018",41.71303,34.53381,HAN-03,Granodiorite,Apatite,53.6,10.2,0.715,,19
+676,FT,"Ballato et al., 2018",41.54515,34.96435,KOZ-01,Granodiorite,Apatite,81.8,10,0.286,,19
+677,FT,"Boztuğ and Jonckheere, 2007",39.76973,33.51949,BAL-16,Granitoid,Apatite,59.3,4.4,1,,20
+678,FT,"Boztuğ and Jonckheere, 2007",39.77304,33.51313,BAL-17,Granitoid,Apatite,58.7,6.4,1,,24
+679,FT,"Boztuğ and Jonckheere, 2007",39.56761,33.54406,BAL-19,Granitoid,Apatite,58.5,6.2,1,,20
+680,FT,"Boztuğ and Jonckheere, 2007",39.57423,33.55724,BAL-20,Granitoid,Apatite,60.5,5.6,1,,20
+681,FT,"Boztuğ and Jonckheere, 2007",39.56388,33.50729,BAL-22,Granitoid,Apatite,59.8,4,1,,22
+682,FT,"Boztuğ and Jonckheere, 2007",39.57947,33.52553,BAL-23,Granitoid,Apatite,59.3,4.6,1,,20
+683,FT,"Boztuğ and Jonckheere, 2007",39.6151,33.53058,BAL-24,Granitoid,Apatite,58.1,9.6,0.962,,3
+684,FT,"Boztuğ and Jonckheere, 2007",39.56113,33.53753,BAL-26,Granitoid,Apatite,58.8,7.4,1,,20
+685,FT,"Boztuğ and Jonckheere, 2007",39.25559,34.0475,BAL-27,Granitoid,Apatite,60.8,10.6,1,,9
+686,FT,"Boztuğ and Jonckheere, 2007",39.25501,34.06109,BAL-28,Granitoid,Apatite,61.9,18.2,0.941,,2
+687,FT,"Boztuğ and Jonckheere, 2007",39.25615,34.07357,BAL-30,Granitoid,Apatite,60.5,17,0.966,,2
+688,FT,"Boztuğ and Jonckheere, 2007",39.24752,34.08025,BAL-31,Granitoid,Apatite,59.3,10.6,1,,25
+689,FT,"Boztuğ and Jonckheere, 2007",39.23577,34.07824,BAL-32,Granitoid,Apatite,59.9,10.6,1,,30
+690,FT,"Boztuğ and Jonckheere, 2007",39.27149,34.02765,BAL-33,Granitoid,Apatite,58.6,4.6,1,,20
+691,FT,"Boztuğ and Jonckheere, 2007",39.28422,34.02468,BAL-34,Granitoid,Apatite,60.5,7,1,,20
+692,FT,"Boztuğ and Jonckheere, 2007",39.29177,34.01215,BAL-36,Granitoid,Apatite,60,18.6,0.963,,3
+693,FT,"Boztuğ and Jonckheere, 2007",39.5971,34.29406,BAL-39,Granitoid,Apatite,58.2,4.2,1,,20
+694,FT,"Boztuğ and Jonckheere, 2007",39.59464,34.30449,BAL-40,Granitoid,Apatite,58.3,6.6,1,,21
+695,FT,"Boztuğ and Jonckheere, 2007",39.59834,34.31171,BAL-43,Granitoid,Apatite,60.1,5.6,1,,15
+696,FT,"Boztuğ and Jonckheere, 2007",39.60333,34.31952,BAL-45,Granitoid,Apatite,58.6,13.2,0.734,,2
+697,FT,"Boztuğ and Jonckheere, 2007",39.47653,33.83357,BAL-47,Granitoid,Apatite,60.1,4.4,1,,20
+698,FT,"Boztuğ and Jonckheere, 2007",39.48636,33.83742,BAL-48,Granitoid,Apatite,60.6,4.4,1,,20
+699,FT,"Boztuğ and Jonckheere, 2007",39.46623,33.88968,BAL-49,Granitoid,Apatite,61,10.8,1,,11
+700,FT,"Boztuğ and Jonckheere, 2007",39.46976,33.89904,BAL-50,Granitoid,Apatite,59,9.8,1,,10
+701,FT,"Boztuğ and Jonckheere, 2007",39.47813,33.81786,BAL-52,Granitoid,Apatite,59.8,10.6,0.979,,3
+702,FT,"Boztuğ and Jonckheere, 2007",39.3328,33.77548,BAL-55,Granitoid,Apatite,59.8,4.6,1,,20
+703,FT,"Boztuğ and Jonckheere, 2007",39.32645,33.77208,BAL-56,Granitoid,Apatite,60.2,4.4,1,,20
+704,FT,"Boztuğ and Jonckheere, 2007",39.31658,33.77029,BAL-57,Granitoid,Apatite,57.2,3.6,0.999,,20
+705,FT,"Boztuğ and Jonckheere, 2007",39.30968,33.77848,BAL-58,Granitoid,Apatite,58.3,4.8,1,,20
+706,FT,"Boztuğ and Jonckheere, 2007",39.30053,33.77894,BAL-61,Granitoid,Apatite,58.1,4.4,1,,20
+707,FT,"Boztuğ and Jonckheere, 2007",39.29843,33.78642,BAL-62,Granitoid,Apatite,58.5,4,1,,20
+708,FT,"Boztuğ and Jonckheere, 2007",39.29408,33.7888,BAL-63,Granitoid,Apatite,58.8,5.6,0.998,,6
+709,FT,"Boztuğ and Jonckheere, 2007",39.29668,33.80044,BAL-65,Granitoid,Apatite,57.8,4,1,,20
+710,FT,"Boztuğ and Jonckheere, 2007",39.93238,36.97218,BAL-74,Granitoid,Apatite,59.5,5.6,1,,20
+711,FT,"Boztuğ and Jonckheere, 2007",39.93788,36.98304,BAL-75,Granitoid,Apatite,61.1,5.2,1,,20
+712,FT,"Boztuğ and Jonckheere, 2007",39.92933,37.00134,BAL-76,Granitoid,Apatite,59.7,4,1,,20
+713,FT,"Boztuğ and Jonckheere, 2007",39.91159,37.00742,BAL-77,Granitoid,Apatite,58.8,4.8,1,,20
+714,FT,"Boztuğ and Jonckheere, 2007",39.93015,37.00269,BAL-78,Granitoid,Apatite,58.4,4.6,1,,20
+715,FT,"Boztuğ and Jonckheere, 2007",39.9177,37.02841,BAL-79,Granitoid,Apatite,59.1,4.4,1,,20
+716,FT,"Boztuğ and Jonckheere, 2007",40.05608,37.94113,BAL-85,Granitoid,Apatite,29.7,2.4,1,,20
+717,FT,"Boztuğ and Jonckheere, 2007",40.04632,37.97342,BAL-86,Granitoid,Apatite,29.3,2.4,1,,20
+718,FT,"Boztuğ and Jonckheere, 2007",40.05121,37.9122,BAL-87,Granitoid,Apatite,29.1,2.4,1,,20
+719,FT,"Boztuğ and Jonckheere, 2007",40.04015,37.92394,BAL-88,Granitoid,Apatite,29.5,2.4,1,,20
+720,FT,"Boztuğ and Jonckheere, 2007",40.07684,37.94887,BAL-89,Granitoid,Apatite,29.4,2.4,1,,26
+721,FT,"Boztuğ and Jonckheere, 2007",40.08259,37.92441,BAL-90,Granitoid,Apatite,28.5,2.4,1,,20
+722,FT,"Boztuğ and Jonckheere, 2007",40.10099,37.93134,BAL-91,Granitoid,Apatite,29,3,1,,20
+723,FT,"Boztuğ and Jonckheere, 2007",40.11085,37.95046,BAL-92,Granitoid,Apatite,29.3,2.6,1,,21
+724,FT,"Boztuğ and Jonckheere, 2007",40.02458,37.92917,BAL-93,Granitoid,Apatite,28.9,2.4,1,,22
+725,FT,"Boztuğ and Jonckheere, 2007",40.03089,37.89768,BAL-94,Granitoid,Apatite,28.8,2.2,0.998,,20
+726,FT,"Boztuğ and Jonckheere, 2007",40.04318,37.88261,BAL-95,Granitoid,Apatite,29.3,2.2,1,,20
+727,FT,"Boztuğ and Jonckheere, 2007",40.06292,37.8948,BAL-96,Granitoid,Apatite,29.8,2.4,0.989,,15
+728,FT,"Boztuğ and Jonckheere, 2007",40.08042,37.88566,BAL-97,Granitoid,Apatite,29.5,2.2,1,,20
+729,FT,"Boztuğ and Jonckheere, 2007",40.08512,37.98012,BAL-98,Granitoid,Apatite,28.6,2,1,,20
+730,FT,"Boztuğ and Jonckheere, 2007",40.04767,37.93774,BAL-99,Granitoid,Apatite,28.6,2,1,,20
+731,FT,"Boztuğ et al., 2004",40.4055,38.41916,TRDS-002,Quartz Syenite,Apatite,69.9,5.4,0.08,,31
+732,FT,"Boztuğ et al., 2004",40.47071,38.20729,TRDS-216,Quartz Syenite,Apatite,80.7,6.4,0.428,,29
+733,FT,"Boztuğ et al., 2004",40.4349,38.31956,TRDS-219,Quartz Syenite,Apatite,62.4,5,0.999,,37
+734,FT,"Boztuğ et al., 2004",40.44887,38.29929,TRDS-221,Quartz Syenite,Apatite,73.6,5.8,0.978,,35
+735,FT,"Boztuğ et al., 2004",40.48022,38.75014,TRDS-519,Syenite,Apatite,74.1,5.8,0.929,,24
+736,FT,"Boztuğ et al., 2004",40.47042,38.70543,TRDS-524,Syenite,Apatite,69.4,5.4,0.434,,26
+737,FT,"Boztuğ et al., 2004",40.45458,38.31222,TRDS-045,Monzonite,Apatite,36.7,4,0.871,,22
+738,FT,"Boztuğ et al., 2004",40.44466,38.32398,TRDS-047,Monzonite,Apatite,64.6,4.6,0.804,,31
+739,FT,"Boztuğ et al., 2004",40.54271,38.31869,TRDS-018,Monzogranite,Apatite,57.4,4.8,0.814,,31
+740,FT,"Boztuğ et al., 2004",40.59228,38.28676,TRDS-029,Monzogranite,Apatite,50.7,3.8,0.957,,35
+741,FT,"Boztuğ et al., 2004",40.53899,38.32675,TRDS-096,Granodiorite,Apatite,47.8,4.8,0.982,,19
+742,FT,"Boztuğ et al., 2004",40.51814,38.40057,TRDS-114,Granodiorite,Apatite,49.4,3.8,0.388,,40
+743,FT,"Boztuğ et al., 2007",40.50491,41.03694,TRB–6,Quartz Diorite,Titanite,43.7,4.6,0.996,,20
+744,FT,"Boztuğ et al., 2007",40.99057,41.02231,TRYG–3,Granitoid,Titanite,49.2,5.2,0.729,,20
+745,FT,"Boztuğ et al., 2007",40.98437,41.00072,TRK–93,Granitoid,Titanite,42.8,3,1,,20
+746,FT,"Boztuğ et al., 2007",41.00123,41.03336,TRE–95,Granitoid,Titanite,44.1,3,1,,20
+747,FT,"Boztuğ et al., 2007",40.97497,41.10658,TRYG–53,Granitoid,Titanite,47.2,5,0.884,,20
+748,FT,"Boztuğ et al., 2007",40.97213,41.12372,TRI–168,Granitoid,Titanite,49.4,5.2,0.934,,20
+749,FT,"Boztuğ et al., 2007",40.95739,41.14479,TRK–98,Granitoid,Titanite,50.5,5.4,0.94,,20
+750,FT,"Boztuğ et al., 2007",40.94285,41.14675,TRYG–63,Granitoid,Titanite,45.7,4.6,0.854,,20
+751,FT,"Boztuğ et al., 2007",40.93944,41.18066,TRYG–29 ,Granitoid,Titanite,46.6,4.8,0.979,,20
+752,FT,"Boztuğ et al., 2007",40.96964,41.18261,TRK–106,Granitoid,Titanite,42.3,3,1,,20
+753,FT,"Boztuğ et al., 2007",41.05911,41.06218,TRB–4,Granitoid,Titanite,56.2,6.2,0.718,,20
+754,FT,"Boztuğ et al., 2007",41.06067,41.06682,TRB–21,Granitoid,Titanite,44.2,5,0.957,,16
+755,FT,"Boztuğ et al., 2007",41.05921,41.07155,TRB–24,Granitoid,Titanite,46.3,4.8,0.558,,20
+756,FT,"Boztuğ et al., 2007",41.0596,41.07419,TRE–39,Granitoid,Titanite,55.4,3.2,1,,20
+757,FT,"Boztuğ et al., 2007",41.05918,41.07685,TRK–125,Granitoid,Titanite,49.1,5.4,0.998,,20
+758,FT,"Boztuğ et al., 2007",41.03307,41.12111,TRA–141,Granitoid,Titanite,52.2,5.4,0.74,,20
+759,FT,"Boztuğ et al., 2007",41.03351,41.11418,TRA–141,Granitoid,Titanite,51.6,5.2,0.815,,20
+760,FT,"Boztuğ et al., 2007",41.09143,41.17964,TRE–38,Granitoid,Titanite,56.6,5.8,1,,20
+761,FT,"Boztuğ et al., 2007",41.08439,41.17642,TRE–37,Granitoid,Titanite,57.6,6,0.997,,20
+762,FT,"Boztuğ et al., 2007",40.6456,41.15472,TRI–20,Granitoid,Titanite,88.4,7.6,0.999,,15
+763,FT,"Boztuğ et al., 2007",40.64557,41.16174,TRA–150,Granitoid,Titanite,111.1,13.8,0.977,,13
+764,FT,"Boztuğ et al., 2007",40.64846,41.16171,TRI–4,Granitoid,Titanite,98.4,10.6,0.955,,20
+765,FT,"Boztuğ et al., 2007",40.64558,41.17091,TRA–95,Granitoid,Titanite,104.9,11.8,0.977,,20
+766,FT,"Boztuğ et al., 2007",40.63998,41.17197,TRI–71,Granitoid,Titanite,113.5,13,0.884,,20
+767,FT,"Boztuğ et al., 2007",40.63813,41.1745,TRI–70,Granitoid,Titanite,115.1,7.6,1,,20
+768,FT,"Boztuğ et al., 2007",40.65053,41.1442,TRG–44,Granitoid,Titanite,122,9.8,1,,22
+769,FT,"Boztuğ et al., 2007",40.64967,41.1674,TRG–41S,Granitoid,Titanite,121.6,8.8,0.994,,20
+770,FT,"Boztuğ et al., 2007",40.51067,41.03013,TRA–54,Monzonite,Zircon,38.6,3,1,,20
+771,FT,"Boztuğ et al., 2007",40.51029,41.03138,TRA–55,Monzonite,Zircon,37.5,2.4,1,,20
+772,FT,"Boztuğ et al., 2009a",39.94403,37.00222,BAL-74,Syenite,Apatite,59.5,5.6,1,,20
+773,FT,"Boztuğ et al., 2009a",39.93896,37.00968,BAL-75,Syenite,Apatite,61.1,5.2,1,,20
+774,FT,"Boztuğ et al., 2009a",39.9334,37.00474,BAL-76,Syenite,Apatite,59.7,4,1,,20
+775,FT,"Boztuğ et al., 2009a",39.92924,37.00109,BAL-77,Syenite,Apatite,58.8,4.8,1,,20
+776,FT,"Boztuğ et al., 2009a",39.92256,36.99931,BAL-78,Syenite,Apatite,58.4,4.6,1,,20
+777,FT,"Boztuğ et al., 2009a",39.91964,36.9987,BAL-79,Syenite,Apatite,59.1,4.4,1,,20
+778,FT,"Boztuğ et al., 2009b",39.47616,33.82146,BAL-47,Quartz Syenite,Apatite,60.1,4.4,1,,20
+779,FT,"Boztuğ et al., 2009b",39.47573,33.83457,BAL-48,Quartz Syenite,Apatite,60.6,4.4,1,,20
+780,FT,"Boztuğ et al., 2009b",39.46935,33.88363,BAL-49,Syenite Porphyry,Apatite,61,10.8,1,,11
+781,FT,"Boztuğ et al., 2009b",39.47147,33.89325,BAL-50,Syenite Porphyry,Apatite,59,9.8,1,,10
+782,FT,"Boztuğ et al., 2009b",39.41591,33.87598,BAL-52,Quartz Syenite,Apatite,59.8,10.6,0.979,,3
+783,FT,"Boztuğ et al., 2009b",39.29705,33.81016,BAL-55,Quartz Monzonite,Apatite,59.8,4.6,1,,20
+784,FT,"Boztuğ et al., 2009b",39.29964,33.80982,BAL-56,Quartz Monzonite,Apatite,60.2,4.4,1,,20
+785,FT,"Boztuğ et al., 2009b",39.30203,33.81084,BAL-57,Quartz Monzonite,Apatite,57.2,3.6,0.999,,20
+786,FT,"Boztuğ et al., 2009b",39.30334,33.80944,BAL-58,Quartz Monzonite,Apatite,58.3,4.8,1,,20
+787,FT,"Boztuğ et al., 2009b",39.30559,33.80911,BAL-61,Quartz Monzonite,Apatite,58.1,4.4,1,,20
+788,FT,"Boztuğ et al., 2009b",39.30708,33.81141,BAL-62,Quartz Monzonite,Apatite,58.5,4,1,,20
+789,FT,"Boztuğ et al., 2009b",39.30521,33.81787,BAL-63,Quartz Monzonite,Apatite,58.8,5.6,0.998,,6
+790,FT,"Boztuğ et al., 2009b",39.30408,33.81849,BAL-65,Quartz Monzonite,Apatite,57.8,4,1,,20
+791,FT,"Buscher et al., 2013",38.4191,28.2151,10JTB01,Augen Gneiss,Apatite,18,4.9,0.2,,25
+792,FT,"Buscher et al., 2013",38.4005,28.2236,10JTB02,Mylonitic Granodiorite,Apatite,2.6,1.3,0.52,,25
+793,FT,"Buscher et al., 2013",38.421,28.1964,11M7,Augen Gneiss,Apatite,11.2,3.3,0.49,,25
+794,FT,"Buscher et al., 2013",38.3667,28.1803,11M13,Mylonitic Granodiorite,Apatite,2.3,1.7,0.36,,20
+795,FT,"Catto et al., 2018",41.77906,27.20743,TU414,Metagranite,Apatite,60.7,11.8,0.977,,32
+796,FT,"Catto et al., 2018",42.03616,27.1278,TU422,Metagranite,Apatite,72,14,0.997,,28
+797,FT,"Catto et al., 2018",42.05398,27.1269,TU423,Metagranite,Apatite,68.4,13.2,0.978,,20
+798,FT,"Cavazza et al., 2009",39.78673,26.67324,TU10,Ultramilonite,Apatite,14.9,5.4,0.999,,30
+799,FT,"Cavazza et al., 2009",39.77446,26.68347,TU12,Amphibolite,Apatite,15.8,2.8,0.819,,20
+800,FT,"Cavazza et al., 2009",39.74777,26.70321,TU13,Gneiss,Apatite,20.4,4.8,0.851,,20
+801,FT,"Cavazza et al., 2009",39.72728,26.72978,TU14,Gneiss,Apatite,14.8,2.6,0.993,,20
+802,FT,"Cavazza et al., 2009",39.69768,26.70925,TU15,Gneiss,Apatite,12.2,2.4,0.445,,20
+803,FT,"Cavazza et al., 2009",39.72907,26.94366,TU16,Gneiss,Apatite,14.6,3.8,0.609,,25
+804,FT,"Cavazza et al., 2009",39.73621,26.93757,TU17,Gneiss,Apatite,17,2.8,0.45,,20
+805,FT,"Cavazza et al., 2009",39.7984,26.91517,TU18,Gneiss,Apatite,16.6,4,0.742,,20
+806,FT,"Cavazza et al., 2009",39.80063,26.88306,TU19,Gneiss,Apatite,17.7,1.6,0.563,,20
+807,FT,"Cavazza et al., 2009",39.80631,26.8603,TU20,Granodiorite,Apatite,13.7,1.4,0.209,,20
+808,FT,"Cavazza et al., 2009",39.63784,26.79509,TU21,Gneiss,Apatite,10.2,5,0.836,,29
+809,FT,"Cavazza et al., 2009",39.6334,26.71109,TU59,Tuffite,Apatite,16.8,5.2,0.88,,20
+810,FT,"Cavazza et al., 2009",39.65394,26.72297,TU60,Gneiss,Apatite,14.7,4.4,0.995,,20
+811,FT,"Cavazza et al., 2012",40.53212,29.72416,TU 110,Granite,Apatite,58.9,25,0,,12
+812,FT,"Cavazza et al., 2012",40.63336,29.95431,TU 111,Gneiss,Apatite,37.2,9.8,0.988,,15
+813,FT,"Cavazza et al., 2012",41.05556,32.06984,TU 112,Granodiorite,Apatite,59.6,12.2,0.622,,22
+814,FT,"Cavazza et al., 2012",41.726,33.65301,TU 120,Granitoid,Apatite,43.5,10.6,0.935,,6
+815,FT,"Cavazza et al., 2012",41.61074,33.95018,TU 121,Granitoid,Apatite,27.9,2.4,0.834,,20
+816,FT,"Cavazza et al., 2012",41.32229,33.14343,TU 123,Granite,Apatite,38.3,5.6,0.607,,14
+817,FT,"Cavazza et al., 2012",40.55708,30.60208,TU 126,Granite,Apatite,33,5.2,0.996,,18
+818,FT,"Cavazza et al., 2012",39.60903,27.18523,IF 21,Granodiorite,Apatite,16.8,3.8,0.96,,21
+819,FT,"Cavazza et al., 2018",38.70003,40.17452,TU145,Metagranite,Apatite,14.6,5,0.825,,20
+820,FT,"Cavazza et al., 2018",38.36355,38.78997,TU149,Gneiss,Apatite,18,3.6,0.87,,20
+821,FT,"Çimen et al., 2025",41.52392,34.97961,DDG1,Dacite Porphyry,Apatite,44.6,1.6,0.22,1.21,25
+822,FT,"Çimen et al., 2025",41.52392,34.97961,DDG2,Dacite Porphyry,Apatite,45.3,1.5,0.057,1.49,25
+823,FT,"Darin et al., 2018",39.23131,36.43329,CAT16-4,Syenite,Apatite,37,6.8,0.999,,20
+824,FT,"Darin et al., 2018",39.27713,36.67383,CAT16-18,Tuff,Apatite,38.6,7.4,0.999,,20
+825,FT,"Darin et al., 2018",39.17188,37.96936,CAT15-10,Syenite,Apatite,27.8,3.8,0.969,,20
+826,FT,"Darin et al., 2018",38.91183,37.88509,CAT15-11 ,Syenite,Apatite,42.4,5,0.73,,20
+827,FT,"Fayon et al., 2001",39.409,36.0133,AK98-5,Granite,Apatite,31.6,3.2,0.682,,15
+828,FT,"Fayon et al., 2001",39.161,35.3519,AK98-28A,Metapelitic Schist,Apatite,35.1,3.6,0.407,,10
+829,FT,"Fayon et al., 2001",39.286,33.5322,KM98-9,Granite,Apatite,39.2,12,0.01,,7
+830,FT,"Fayon et al., 2001",38.5,34,94BDP-1,Granite,Apatite,47,6.3,0.772,,20
+831,FT,"Fayon et al., 2001",37.5421,35.543,94UKG-3 ,Metamorphic,Apatite,16.6,3.8,0.08,,20
+832,FT,"Fayon et al., 2001",37.53,34.5503,94UKG-8,Metamorphic,Apatite,11.9,2.5,0.04,,26
+833,FT,"Fayon et al., 2001",37.5914,34.4656,ND98-1,Metamorphic,Apatite,11,1.8,0.544,,20
+834,FT,"Fayon et al., 2001",37.5849,34.4711,ND98-3,Metamorphic,Apatite,11.6,2,0.077,,20
+835,FT,"Fayon et al., 2001",37.5837,34.4727,ND98-4,Metamorphic,Apatite,10.5,1.8,0.504,,20
+836,FT,"Fayon et al., 2001",37.5649,34.4847,ND98-9,Metamorphic,Apatite,10.8,1.8,0.921,,20
+837,FT,"Fayon et al., 2001",37.5649,34.4856,ND98-10A ,Metamorphic,Apatite,11.6,1.6,0.659,,20
+838,FT,"Fayon et al., 2001",37.555,34.5042,ND98-15,Metamorphic,Apatite,12,2,0.404,,20
+839,FT,"Fayon et al., 2001",37.545,35.5325,ND98-16,Metamorphic,Apatite,12.3,5.4,0.01,,10
+840,FT,"Fayon et al., 2001",37.5431,35.0014,ND98-22,Metamorphic,Apatite,9.4,2.2,0.911,,20
+841,FT,"Gildir et al., 2024",38.02144,37.17277,FK637,Mica-Quartz Schist,Apatite,26.6,2.4,0.19,,33
+842,FT,"Gildir et al., 2024",38.01908,37.1873,FK638,Muscovite Schist,Apatite,21.3,0.8,0.26,,40
+843,FT,"Gildir et al., 2024",38.01791,37.18866,FK639b,Mica-Quartz Schist,Apatite,18,1.4,0.12,,43
+844,FT,"Gildir et al., 2024",38.01857,37.19313,FK640,Mica-Quartz Schist,Apatite,26.2,1.8,0.95,,47
+845,FT,"Gildir et al., 2024",38.09259,37.14769,FK641,Mica-Quartz Schist,Apatite,31,3,0.08,,35
+846,FT,"Gildir et al., 2024",38.00113,37.12302,SG-1,Plg+Bio+Quartz Schist,Apatite,33.1,3.2,0.03,,42
+847,FT,"Gildir et al., 2024",38.00176,37.11594,SG-2,Bio+Chlorite Schist,Apatite,30,10.8,0.4,,14
+848,FT,"Gildir et al., 2024",38.00065,37.11036,SG-3,Bio+plg+quartz schist,Apatite,22.8,6.8,0.87,,13
+849,FT,"Gülyüz et al., 2020",40.08763,31.90221,BYP-1,Granitoid,Apatite,64.87,6.76,0.12,,17
+850,FT,"Gülyüz et al., 2020",40.06899,31.97059,BYP-3,Granitoid,Apatite,66.92,6.82,0.12,,15
+851,FT,"Gülyüz et al., 2020",40.04238,31.91644,BYP-4,Granitoid,Apatite,65.27,4.84,0.1,,25
+852,FT,"Gülyüz et al., 2024",39.93099,26.8032,HTC-1,Quartz feldspar porphyry,Apatite,27.4,0.8,0.13,,30
+853,FT,"Gülyüz et al., 2024",39.93159,26.80314,HTC-2,Quartz feldspar porphyry,Apatite,26.7,0.8,0.41,,26
+854,FT,"Gülyüz et al., 2024",39.93159,26.80314,HTC-3,Quartz feldspar porphyry,Apatite,26.3,0.7,0.25,,28
+855,FT,"Gülyüz et al., 2024",39.92677,26.80125,HTC-6,Quartz feldspar porphyry,Apatite,29.8,1.2,0.11,,20
+856,FT,"Gülyüz et al., 2024",39.92677,26.80125,HTC-14,Quartz feldspar porphyry,Apatite,28.9,1.5,0.29,,17
+857,FT,"Heineke et al., 2019",38.4324,27.8355,14M19,Metamorphic massif,Apatite,5.7,2.6,0.39,,20
+858,FT,"Heineke et al., 2019",38.4309,27.7362,15M84,Metamorphic massif,Zircon,8.2,3.2,0.99,,16
+859,FT,"Heineke et al., 2019",38.4805,27.8105,11M1,Metamorphic massif,Apatite,10.4,2.8,1,,20
+860,FT,"Heineke et al., 2019",37.9537,28.1034,14M35,Metamorphic massif,Apatite,5.2,4,0.5,,11
+861,FT,"Heineke et al., 2019",37.9682,28.0899,14M41,Metamorphic massif,Apatite,4.4,2.2,0.29,,11
+862,FT,"Heineke et al., 2019",37.9684,27.7614,15M57,Metamorphic massif,Apatite,10.6,6.6,0.99,,8
+863,FT,"Heineke et al., 2019",37.9574,27.7586,15M58,Metamorphic massif,Apatite,4.3,1.4,0.8,,22
+864,FT,"Heineke et al., 2019",38.0048,28.138,16M90,Metamorphic massif,Apatite,12.9,2.6,0.99,,35
+865,FT,"Heineke et al., 2019",37.9227,28.0861,14M31,Metamorphic massif,Apatite,17.8,6.2,0.5,,15
+866,FT,"Heineke et al., 2019",38.4324,27.8355,14M19,Metamorphic massif,Zircon,9.8,2.4,0.69,,8
+867,FT,"Heineke et al., 2019",38.4309,27.7362,15M84,Metamorphic massif,Apatite,14.1,3.6,0.99,,25
+868,FT,"Heineke et al., 2019",38.4805,27.8105,11M1,Metamorphic massif,Zircon,32.8,5.8,0.02,,20
+869,FT,"Heineke et al., 2019",37.9684,27.7614,15M57,Metamorphic massif,Zircon,19.1,4.8,0.2,,20
+870,FT,"Heineke et al., 2019",37.9227,28.0861,14M31,Metamorphic massif,Zircon,29,3.8,0.08,,20
+871,FT,"Karaoğlan, 2016",37.47759,34.77534,FK88,Granitoid,Apatite,23.7,2.6,0.307,,33
+872,FT,"Karaoğlan, 2016",37.47819,34.77589,FK89,Granitoid,Apatite,20.5,2,0.249,,42
+873,FT,"Karaoğlan, 2016",37.47871,34.77684,FK90,Granitoid,Apatite,16.1,3.4,0.59,,14
+874,FT,"Karaoğlan, 2016",37.47906,34.77725,FK91,Granitoid,Apatite,19.4,2.4,0.659,,46
+875,FT,"Nilius et al., 2019",37.8802,27.72991,15M42,Augen gneiss,Apatite,16.1,6.2,0.99,,17
+876,FT,"Nilius et al., 2019",37.96619,28.11728,15M44,Mica schist,Apatite,6,2,0.96,,25
+877,FT,"Nilius et al., 2019",38.02442,28.13655,15M45,Mica schist,Apatite,9,2,0.64,,25
+878,FT,"Nilius et al., 2019",38.02466,28.10558,15M46,Mica schist,Apatite,14,4.4,0.99,,20
+879,FT,"Nilius et al., 2019",38.02466,28.10558,15M47,Mica schist,Apatite,11.4,4.6,0.97,,10
+880,FT,"Nilius et al., 2019",38.00683,28.11189,15M48,Mica schist,Apatite,13,6.2,1,,21
+881,FT,"Nilius et al., 2019",37.99857,28.10446,15M49,Mica schist,Apatite,13.3,4.6,0.92,,21
+882,FT,"Nilius et al., 2019",38.04412,27.75315,15M52,Mica schist,Apatite,12.1,3.2,1,,22
+883,FT,"Nilius et al., 2019",38.01768,27.74109,15M54,Mica schist,Apatite,13.2,5.2,0.81,,13
+884,FT,"Nilius et al., 2019",38.00243,27.75802,15M55,Mica schist,Apatite,11,4,1,,17
+885,FT,"Nilius et al., 2019",37.98357,27.76323,15M56,Mica schist,Apatite,15.4,4.8,0.96,,25
+886,FT,"Nilius et al., 2019",37.96844,27.76144,15M57,Paragneiss,Apatite,10.6,6.6,0.99,,8
+887,FT,"Nilius et al., 2019",37.95739,27.75863,15M58,Mica schist,Apatite,4.3,1.4,0.8,,22
+888,FT,"Nilius et al., 2019",37.94882,27.75504,15M59,Paragneiss,Apatite,7.9,2.6,0.28,,23
+889,FT,"Nilius et al., 2019",37.89713,27.62427,16M86,Augen gneiss,Apatite,23.5,9,0.99,,20
+890,FT,"Nilius et al., 2019",37.9826,28.13009,16M87,Mica schist,Apatite,12.2,3,0.78,,24
+891,FT,"Nilius et al., 2019",38.00618,28.13879,16M88,Paragneiss,Apatite,12.2,3.6,0.97,,17
+892,FT,"Nilius et al., 2019",38.02486,28.06677,16M89,Orthogneiss,Apatite,15.3,4.4,0.99,,17
+893,FT,"Nilius et al., 2019",38.00476,28.13803,16M90,Paragneiss,Apatite,12.9,2.6,0.99,,35
+894,FT,"Nilius et al., 2019",37.95898,27.75963,16M94,Phyllite,Apatite,6.2,2.2,1,,23
+895,FT,"Nilius et al., 2019",38.001,27.81659,16M95,Paragneiss,Apatite,13.1,5.6,1,,14
+896,FT,"Nilius et al., 2019",37.96945,27.79044,16M97,Mica schist,Apatite,9.6,5.8,0.98,,7
+897,FT,"Okay et al., 2008",40.07751,29.22045,TU22,Granite,Apatite,17.1,2.4,0.855,,20
+898,FT,"Okay et al., 2008",40.10001,29.24008,TU23,Granite,Apatite,27.7,4.4,0.844,,20
+899,FT,"Okay et al., 2008",40.09115,29.1412,TU25,Gneiss,Apatite,20.7,2.6,0.865,,20
+900,FT,"Okay et al., 2008",40.09901,29.14021,TU26,Gneiss,Apatite,28.9,7.4,1,,20
+901,FT,"Okay et al., 2008",40.10314,29.13977,TU27,Gneiss,Apatite,20.2,5.2,0.918,,20
+902,FT,"Okay et al., 2008",40.10671,29.13871,TU28,Gneiss,Apatite,21,2.8,0.398,,20
+903,FT,"Okay et al., 2008",40.11051,29.1411,TU29,Gneiss,Apatite,10.5,3.8,1,,20
+904,FT,"Okay et al., 2008",40.03849,29.21494,TU31,Metagranite,Apatite,9.2,3.6,0.977,,20
+905,FT,"Okay et al., 2008",40.02455,29.33968,TU105,Gneiss,Apatite,22,7.2,0.999,,20
+906,FT,"Okay et al., 2008",40.02261,29.35317,TU103,Gneiss,Apatite,14.3,4.4,0.972,,20
+907,FT,"Okay et al., 2008",40.00063,29.19393,TU32,Granodiorite,Apatite,30.4,8.2,0.409,,20
+908,FT,"Okay et al., 2008",40.10686,29.16102,TU24,Acidic tuff,Apatite,26.3,4.6,0.492,,20
+909,FT,"Okay et al., 2010",38.7,40.175,TU138,Gneiss,Apatite,13.8,6.2,1,,16
+910,FT,"Okay et al., 2010",38.70003,40.17452,TU145,Metagranite,Apatite,14.6,5,0.82,,20
+911,FT,"Okay et al., 2010",38.364,38.79,TU149,Gneiss,Apatite,18,3.6,0.87,,20
+912,FT,"Okay et al., 2020a",39.87504,31.80515,TU8817,Granite,Apatite,69.8,10.2,0.52,,20
+913,FT,"Okay et al., 2020a",39.87759,31.79956,TU9022,Granite,Apatite,64.1,9.8,0.976,,20
+914,FT,"Okay et al., 2020a",39.88793,31.80904,TU8818,Granite,Apatite,72,10.6,0.405,,20
+915,FT,"Okay et al., 2020a",39.89694,31.8179,TU8820,Granite,Apatite,61,10.2,0.745,,20
+916,FT,"Okay et al., 2020a",39.90951,31.80822,TU8823,Granite,Apatite,54.3,8.2,0.6,,20
+917,FT,"Okay et al., 2020a",39.90436,31.82193,TU8821,Granite,Apatite,66.8,10,0.287,,20
+918,FT,"Okay et al., 2020a",39.95519,31.74374,TU9456,Granite,Apatite,46.9,7.2,0.696,,20
+919,FT,"Okay et al., 2020a",39.98859,31.7444,TU9450,Granite,Apatite,60,9.4,0.18,,20
+920,FT,"Okay et al., 2022",39.46264,31.94826,9384,Granite,Apatite,42.1,8.6,0.11,,20
+921,FT,"Okay et al., 2022",39.38796,32.01244,9413,Granite,Apatite,29.3,5.2,0.32,,20
+922,FT,"Okay et al., 2022",39.57753,31.63722,9429,Granite,Apatite,32.6,4.6,0.3,,20
+923,FT,"Okay et al., 2022",39.50669,31.87163,9404,Granite,Apatite,37,5.4,0.6,,20
+924,FT,"Okay et al., 2022",39.71504,31.46214,9431,Granite,Apatite,33.3,5.8,0.14,,20
+925,FT,"Ring et al., 2017",37.64111,28.31389,THT28,Augen gneiss,Apatite,20.5,2.7,0.998,,20
+926,FT,"Ring et al., 2017",37.51694,28.35056,THT29,Quartzite,Apatite,18.1,10.5,0.914,,20
+927,FT,"Ring et al., 2017",37.39194,28.80028,THT31,Augen gneiss,Apatite,27.7,10.1,0.95,,14
+928,FT,"Ring et al., 2017",37.44806,27.70667,THT33,Mica schist,Apatite,25.4,8.3,0.891,,20
+929,FT,"Ring et al., 2017",37.45306,27.71778,THT34,Augen gneiss,Apatite,26.5,7.4,0.938,,20
+930,FT,"Ring et al., 2017",37.39333,27.75111,THT35,Quartzite,Apatite,27.8,7,0.912,,20
+931,FT,"Ring et al., 2017",37.47639,27.58472,THT37,Quartzite,Apatite,23.9,5.6,0.972,,20
+932,FT,"Ring et al., 2017",37.64111,28.31389,THT28,Augen gneiss,Zircon,30.2,2.4,0.516,,20
+933,FT,"Ring et al., 2017",37.51694,28.35056,THT29,Quartzite,Zircon,29.2,4.9,0.979,,11
+934,FT,"Ring et al., 2017",37.39194,28.80028,THT31,Augen gneiss,Zircon,30.8,3.4,0.999,,8
+935,FT,"Ring et al., 2017",37.37917,27.79444,THT32,Quartzite,Zircon,30.8,2.8,0.997,,20
+936,FT,"Ring et al., 2017",37.45306,27.71778,THT34,Augen gneiss,Zircon,30.5,3.4,0.997,,20
+937,FT,"Ring et al., 2017",37.39333,27.75111,THT35,Quartzite,Zircon,30.2,2.7,0.99,,12
+938,FT,"Ring et al., 2017",37.47639,27.58472,THT37,Quartzite,Zircon,32,4.7,0.997,,15
+939,FT,"Thomson and Ring, 2006",39.03417,28.76778,THT1,Quartzite,Apatite,21.2,5.5,0.714,,19
+940,FT,"Thomson and Ring, 2006",39.03417,28.76778,THT1,Quartzite,Zircon,23.6,2.2,0.953,,20
+941,FT,"Thomson and Ring, 2006",39.0825,28.95583,THT2,Leucogranite,Apatite,17.5,2.6,0.99,,18
+942,FT,"Thomson and Ring, 2006",39.08417,28.9325,THT3,Mica schist,Apatite,17.3,2,0.985,,20
+943,FT,"Thomson and Ring, 2006",39.08417,28.9325,THT3,Mica schist,Zircon,21.1,1.5,0.98,,20
+944,FT,"Thomson and Ring, 2006",39.08444,28.96722,THT4,Mica schist,Apatite,15.6,2.5,0.986,,20
+945,FT,"Thomson and Ring, 2006",39.08444,28.96722,THT4,Mica schist,Zircon,20.1,1.4,0.308,,14
+946,FT,"Thomson and Ring, 2006",39.08972,28.96167,THT5,Leucogranite,Apatite,14,1.8,0.999,,20
+947,FT,"Thomson and Ring, 2006",39.08972,28.96167,THT5,Leucogranite,Zircon,19.9,1.7,0.672,,20
+948,FT,"Thomson and Ring, 2006",39.1325,29.02694,THT6,Schist,Apatite,17.6,9.9,0.18,,3
+949,FT,"Thomson and Ring, 2006",39.1325,29.02694,THT6,Schist,Zircon,20.9,1.8,0.964,,20
+950,FT,"Thomson and Ring, 2006",39.16056,29.08778,THT7,Granite,Apatite,14.9,4.1,0.976,,20
+951,FT,"Thomson and Ring, 2006",39.16056,29.08778,THT7,Granite,Zircon,20.5,1.5,0.254,,20
+952,FT,"Thomson and Ring, 2006",39.27083,29.1475,THT8,Granite,Apatite,13.9,4.2,0.938,,20
+953,FT,"Thomson and Ring, 2006",39.27083,29.1475,THT8,Granite,Zircon,21,1.5,0.194,,20
+954,FT,"Thomson and Ring, 2006",39.29639,29.08333,THT9,Granite,Apatite,14.9,3.3,0.945,,20
+955,FT,"Thomson and Ring, 2006",39.29639,29.08333,THT9,Granite,Zircon,21.6,1.5,0.549,,20
+956,FT,"Thomson and Ring, 2006",39.34361,29.075,THT10,Granite,Apatite,14.1,3.3,0.999,,20
+957,FT,"Thomson and Ring, 2006",39.34361,29.075,THT10,Granite,Zircon,21.1,1.5,0.85,,20
+958,FT,"Thomson and Ring, 2006",39.26806,29.04806,THT11,Granite,Apatite,15.4,3.5,0.999,,20
+959,FT,"Thomson and Ring, 2006",39.26806,29.04806,THT11,Granite,Zircon,22.5,1.6,0.394,,20
+960,FT,"Thomson and Ring, 2006",39.39528,29.03972,THT15,Granite,Apatite,12.9,3.3,0.986,,20
+961,FT,"Thomson and Ring, 2006",39.39528,29.03972,THT15,Granite,Zircon,22.2,1.5,0.958,,20
+962,FT,"Thomson and Ring, 2006",39.38806,29.02694,THT16,Granite,Apatite,14.7,3.7,0.998,,20
+963,FT,"Thomson and Ring, 2006",39.38806,29.02694,THT16,Granite,Zircon,21.4,1.5,0.948,,20
+964,FT,"Thomson and Ring, 2006",39.28722,28.97444,THT17,Granite mylonite,Apatite,21.9,3.4,0.999,,20
+965,FT,"Thomson and Ring, 2006",39.28722,28.97444,THT17,Granite mylonite,Zircon,22.5,1.5,0.217,,20
+966,FT,"Thomson and Ring, 2006",39.36,28.96806,THT18,Pegmatite,Apatite,21.4,2.7,0.999,,17
+967,FT,"Thomson and Ring, 2006",39.30722,28.95139,THT19,Granite,Apatite,23.9,4,0.994,,20
+968,FT,"Thomson and Ring, 2006",39.30722,28.95139,THT19,Granite,Zircon,24.2,1.7,0.154,,20
+969,FT,"Thomson and Ring, 2006",39.22444,28.88083,THT20,Granite,Apatite,27.1,6.2,0.967,,8
+970,FT,"Thomson and Ring, 2006",39.22444,28.88083,THT20,Granite,Zircon,23.7,1.9,0.539,,20
+971,FT,"Thomson and Ring, 2006",39.21389,28.89722,THT21,Granite boudin,Apatite,22.9,3,0.927,,20
+972,FT,"Thomson and Ring, 2006",39.21389,28.89722,THT21,Granite boudin,Zircon,23.7,1.9,0.959,,20
+973,FT,"Thomson and Ring, 2006",39.19861,28.80833,THT22,Granite,Apatite,29.8,4.5,0.419,,20
+974,FT,"Thomson and Ring, 2006",39.19861,28.80833,THT22,Granite,Zircon,28.8,2,0.534,,20
+975,FT,"Thomson and Ring, 2006",39.09,29.04444,THT23,Granite,Apatite,20.3,4.6,0.999,,20
+976,FT,"Thomson and Ring, 2006",39.09,29.04444,THT23,Granite,Zircon,22.9,1.6,0.675,,20
+977,FT,"Thomson and Ring, 2006",38.71389,28.92556,THT24,Augen gneiss,Apatite,16.3,2.4,0.943,,20
+978,FT,"Thomson and Ring, 2006",38.71389,28.92556,THT24,Augen gneiss,Zircon,23.9,1.9,0.887,,20
+979,FT,"Thomson and Ring, 2006",38.66972,29.01972,THT25,Leucogranite,Apatite,10,2.4,0.843,,8
+980,FT,"Thomson and Ring, 2006",38.44583,28.53194,THT26,Mica schist,Apatite,17.3,4.8,0.991,,20
+981,FT,"Thomson and Ring, 2006",38.44583,28.53194,THT26,Mica schist,Zircon,24.4,3,0.904,,9
+982,FT,"Thomson and Ring, 2006",38.39639,28.47556,THT27,Granite,Apatite,16.3,5.1,0.89,,9
+983,FT,Thomson and Ring 2006,38.39639,28.47556,THT27,Granite,Zircon,24.6,2.3,1,,17
+984,FT,"Topak, 2022",37.92237,37.83154,ysf-aft1,Granite,Apatite,26.24,1.18,0.57,,16
+985,FT,"Topak, 2022",37.92509,37.83421,ysf-aft2,Granodiorite,Apatite,30.5,2.92,1,,19
+986,FT,"Topak, 2022",37.93444,37.82383,ysf-aft3,Granodiorite,Apatite,32.12,1.68,0.81,,43
+987,FT,"Topak, 2022",37.93452,37.824,ysf-aft4,Granite,Apatite,42.33,5.26,0.071,,26
+988,FT,"Umhoefer et al., 2007",37.4931,34.43651,ND01-5,Granite,Apatite,17,3,0.844,,8
+989,FT,"Umhoefer et al., 2007",37.4932,34.43282,ND01-6A,Quartzite,Apatite,15.7,3.1,0.963,,5
+990,FT,"Umhoefer et al., 2007",37.49202,34.57284,ND01-22X,Granitic clast,Apatite,8.7,2.2,0.517,,7
+991,FT,"Umhoefer et al., 2007",37.49202,34.57284,ND01-22C,Granitic clast,Apatite,15.8,3.6,0.473,,5
+992,FT,"Umhoefer et al., 2007",37.56557,34.49524,ND0-33,Granitic sill,Apatite,14.7,2.8,0.391,,5
+993,FT,"Whitney et al., 2023",38.02472,36.83001,151013A,Granite,Apatite,35.88,4.29,1,,20
+994,FT,"Whitney et al., 2023",38.02808,36.8341,151013C,Granite,Apatite,37.18,4.08,0.999,,20
+995,FT,"Whitney et al., 2023",38.05202,36.87144,151013I,Granite,Apatite,36.06,3.93,1,,20
+996,FT,"Whitney et al., 2023",38.06397,36.87528,151013J,Granite,Apatite,38,3.62,1,,20
+997,FT,"Whitney et al., 2023",38.04894,36.88207,171013A,Granite,Apatite,34.86,4.46,0.999,,20
+998,FT,"Whitney et al., 2023",38.03744,38.26143,CAT13-29,Pegmatite,Apatite,17.01,2.05,1,,12
+999,FT,"Whitney et al., 2023",38.11023,38.93217,191014C,Meta felsic rock,Apatite,19,4.62,0.987,,12
+1000,FT,"Whitney et al., 2023",38.11867,38.93098,191014D,Granite,Apatite,16.54,1.95,0.999,,20
+1001,FT,"Whitney et al., 2023",38.18692,38.48108,191014G,Granite,Apatite,15.97,1.98,1,,20
+1002,FT,"Whitney et al., 2023",38.31524,38.82246,131013A,Granite,Apatite,14.62,4.47,0.996,,30
+1003,FT,"Whitney et al., 2023",38.31245,38.84304,131013E,Granite,Apatite,11.26,2.11,1,,31
+1004,FT,"Whitney et al., 2023",38.31112,38.84099,131013F,Granite,Apatite,12.36,2.02,0.934,,32
+1005,FT,"Whitney et al., 2023",38.28718,38.84581,131013I,Granite,Apatite,13.19,3.99,0.859,,27
+1006,FT,"Whitney et al., 2023",38.27806,38.87563,131013N,Schist,Apatite,16.14,6.41,0.91,,23
+1007,FT,"Whitney et al., 2023",38.26265,39.0322,131013S,Schist,Apatite,15.38,2.32,0.964,,20
+1008,FT,"Whitney et al., 2023",38.2593,39.02741,131013T,Schist,Apatite,12.19,1.45,0.963,,20
+1009,FT,"Whitney et al., 2023",38.25843,39.01428,131013U,Schist,Apatite,15.38,2.15,0.999,,22
+1010,FT,"Whitney et al., 2023",38.26694,39.0072,131013V,Schist,Apatite,15.49,3.87,0.999,,30
+1011,FT,"Whitney et al., 2023",38.29062,38.95047,131013X,Schist,Apatite,21.87,11.64,0.984,,13
+1012,FT,"Wölfler et al., 2017",38.1207,27.9806,14M29,Augen gneiss,Apatite,30.3,4.2,0.1,,20
+1013,FT,"Wölfler et al., 2017",37.9227,28.0861,14M31,Augen gneiss,Apatite,29,3.8,0.08,,20
+1014,FT,"Wölfler et al., 2017",37.9241,28.0864,14M32,Mica schist,Apatite,25.3,3.4,0.61,,20
+1015,FT,"Wölfler et al., 2017",37.9721,27.9892,14M36,Mica schist,Apatite,26.4,5.2,0,,20
+1016,FT,"Wölfler et al., 2017",38.1841,28.061,14M23,Augen gneiss,Apatite,17.7,5.6,0.26,,20
+1017,FT,"Wölfler et al., 2017",38.0392,28.0265,14M24,Paragneiss,Apatite,11.8,6.8,0.85,,20
+1018,FT,"Wölfler et al., 2017",38.0438,28.0186,14M25,Paragneiss,Apatite,13.1,7.2,0.12,,20
+1019,FT,"Wölfler et al., 2017",38.0361,28.0066,14M26,Paragneiss,Apatite,12.4,2.8,0.99,,20
+1020,FT,"Wölfler et al., 2017",38.0814,27.9482,14M27,Augen gneiss,Apatite,18,6.2,0.9,,20
+1021,FT,"Wölfler et al., 2017",38.1207,27.9806,14M29,Augen gneiss,Apatite,21.1,7.6,0.001,,20
+1022,FT,"Wölfler et al., 2017",37.9553,28.0443,14M30,Augen gneiss,Apatite,19.9,8,0.85,,20
+1023,FT,"Wölfler et al., 2017",37.9227,28.0861,14M31,Augen gneiss,Apatite,17.8,6.2,0.5,,15
+1024,FT,"Wölfler et al., 2017",37.9241,28.0864,14M32,Mica schist,Apatite,4.2,2.6,0.77,,15
+1025,FT,"Wölfler et al., 2017",37.931,28.0876,14M33,Mica schist,Apatite,4.2,4.2,0.78,,4
+1026,FT,"Wölfler et al., 2017",37.9387,28.0884,14M34,Mica schist,Apatite,4.8,2.8,0.02,,17
+1027,FT,"Wölfler et al., 2017",37.9537,28.1034,14M35,Mica schist,Apatite,5.2,4,0.5,,11
+1028,FT,"Wölfler et al., 2017",37.9721,27.9892,14M36,Mica schist,Apatite,5.7,1.8,0.86,,20
+1029,FT,"Wölfler et al., 2017",37.9803,27.9663,14M37,Mica schist,Apatite,14.7,4.8,0.02,,20
+1030,FT,"Wölfler et al., 2017",37.9892,27.9641,14M38,Mica schist,Apatite,15.3,8.8,0.99,,15
+1031,FT,"Wölfler et al., 2017",37.8846,28.063,14M39,Augen gneiss,Apatite,18.9,8.4,0.09,,20
+1032,FT,"Wölfler et al., 2017",37.8862,28.0476,14M40,Augen gneiss,Apatite,22.8,11.6,0.12,,20
+1033,FT,"Wölfler et al., 2017",37.9682,28.0899,14M41,Mica schist,Apatite,4.4,2.2,0.29,,11
+1034,FT,"Zattin et al., 2010",40.59018,30.33877,TU36,Granite,Apatite,14.9,10,0.48,,12
+1035,FT,"Zattin et al., 2010",40.62237,26.92183,TU38,Granite,Apatite,51.4,9.6,0.2,,15
+1036,FT,"Zattin et al., 2010",40.59564,27.54325,TU46,Granite,Apatite,53.3,9.8,0.676,,20
+1037,FT,"Zattin et al., 2010",40.51594,27.71369,TU47,Granitoid,Apatite,33.4,5.2,0.866,,20
+1038,FT,"Zattin et al., 2010",40.61175,27.58722,TU48,Granitoid,Apatite,19.3,5,0.916,,20
+1039,FT,"Zattin et al., 2010",40.61401,28.97546,TU55,Andesite,Apatite,48.5,11.4,0.996,,14
+1040,FT,"Zattin et al., 2010",40.46417,28.96348,TU56,Granitoid,Apatite,27.2,3.6,0.784,,20
+1041,FT,"Zattin et al., 2010",41.13606,28.69117,TU96,Andesite,Apatite,25.4,5.2,0.848,,26
+1042,FT,"Zattin et al., 2010",41.14342,28.93952,TU100,Granite,Apatite,39.9,7.4,0.853,,21
+,,,,,,,,,,,,1
