@@ -97,3 +97,15 @@ input[type="range"] { width: 130px; cursor: pointer; }
 .popup-table td { padding: 2px 5px; border-bottom: 1px solid #eee; font-size: 12px; }
 .popup-table tr:last-child td { border-bottom: none; }
 .dimmable-layer { transition: filter 0.2s ease; }
+
+/* CDF-Histogram Addition */
+#chart-panel {
+    display: none; position: absolute; bottom: 30px; left: 220px;
+    width: 800px; height: 450px; background: white; z-index: 1000;
+    border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+    border: 1px solid #ddd; padding: 15px;
+}
+.chart-header { display: flex; justify-content: space-between; font-weight: bold; margin-bottom: 5px; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+.close-btn { cursor: pointer; color: #666; }
+.chart-container { display: flex; width: 100%; height: calc(100% - 25px); }
+#cdf-plot, #hist-plot { width: 50%; height: 100%; }
