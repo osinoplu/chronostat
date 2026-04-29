@@ -48,7 +48,6 @@ function initPValueMap(config) {
 
     injectUI();
 
-
     // --- 2. CORE MAP LOGIC & FUNCTIONS ---
     function escapeHTML(str) {
         if (str === null || str === undefined) return '';
@@ -258,23 +257,19 @@ function initPValueMap(config) {
         setTimeout(function() { el.style.display = 'none'; }, 4000);
     }
 
-    // UPDATED STYLE FUNCTION
     function createStyle(method, fillColor) {
         return function() {
             const stroke = new ol.style.Stroke({ color: '#000', width: 1 });
             const fill = new ol.style.Fill({ color: fillColor });
             
             let imageStyle;
-            
+
             if (method === "U-Pb") {
-                // Only U-Pb gets the circle
                 imageStyle = new ol.style.Circle({ fill: fill, stroke: stroke, radius: currentRadius });
             } else if (method === "FT") {
-                // FT keeps the triangle
                 const triangleRadius = currentRadius * 1.5;
                 imageStyle = new ol.style.RegularShape({ fill: fill, stroke: stroke, points: 3, radius: triangleRadius, angle: 0 });
             } else {
-                // Any other method defaults to a square
                 const squareRadius = currentRadius * Math.SQRT2;
                 imageStyle = new ol.style.RegularShape({ fill: fill, stroke: stroke, points: 4, radius: squareRadius, angle: Math.PI / 4 });
             }
@@ -283,7 +278,6 @@ function initPValueMap(config) {
         };
     }
 
-    // UPDATED DATA PROCESSOR
     function processData(rawData) {
         samples = rawData;
         var count = 0;
@@ -299,9 +293,6 @@ function initPValueMap(config) {
             var lat = parseFloat(s['Lat (N)']), lon = parseFloat(s['Long (E)']);
             var method = s['Method'] || "Unknown";
             
-            // EXPLICIT FILTER: Skip these methods completely
-            if (method === "U-Pb Multiple" || method === "FT Multiple") return;
-
             var pValue = parseFloat(s['p-value'] || s['P-value']); 
             
             var fillColor = '#000000'; 
@@ -358,7 +349,6 @@ function initPValueMap(config) {
         showStatus("Loaded " + count + " samples.");
     }
 
-    // UPDATED LEGEND CONTROL BUILDER
     function buildLayerControl() {
         var container = document.getElementById('layer-control-content');
         var html = '';
@@ -399,8 +389,7 @@ function initPValueMap(config) {
 
             rangeOrder.forEach(function(range) {
                 if (ranges[range]) {
-                    // Update symbol logic for the legend
-                    var symbolClass = 'square'; // Default for others
+                    var symbolClass = 'square'; 
                     if (method === "U-Pb") symbolClass = 'circle';
                     else if (method === "FT") symbolClass = 'triangle';
                     
