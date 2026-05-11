@@ -167,25 +167,19 @@ function initPValueMap(config) {
                 evt.coordinate, viewResolution, 'EPSG:3857',
                 {'INFO_FORMAT': 'text/html'}
             );
-            
             if (url) {
-                // Route the request through a reliable CORS proxy
-                const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(url);
-                
                 $.ajax({
-                    url: proxyUrl,
+                    url: url,
                     success: function (data) {
                         if (data && data.length > 20) {
                             popupContent.innerHTML = data;
                             overlay.setPosition(evt.coordinate);
                         }
-                    },
-                    error: function() {
-                        console.error("CORS Proxy or GeoServer failed to retrieve feature info.");
                     }
                 });
             }
         }
+    });
 
     const drawBtn = document.getElementById('draw-box-btn');
     
