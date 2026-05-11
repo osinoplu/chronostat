@@ -95,7 +95,8 @@ function initPValueMap(config) {
         geologySource = new ol.source.TileWMS({
             url: config.wmsUrl,
             params: {'LAYERS': config.wmsLayers, 'TILED': true, 'FORMAT': 'image/png'},
-            serverType: 'geoserver'
+            serverType: 'geoserver',
+            crossOrigin: 'anonymous'
         });
         geologyLayer = new ol.layer.Tile({ source: geologySource, opacity: 0.65, zIndex: 10 });
         mapLayers.push(geologyLayer);
